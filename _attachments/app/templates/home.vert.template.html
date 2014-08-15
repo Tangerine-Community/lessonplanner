@@ -24,12 +24,12 @@
 	       		<table id="incidents" width="100%" class="stripeMe">
 					<thead>
 						<tr>
-							<th>Title</th><th>Subject</th><th>Week</th><th style="border-right:none;">Date</th>
+							<th>Title</th><th>Subject</th><th>Week</th><th style="border-right:none;">Day</th>
 						</tr>
 					</thead>
 					<tbody></tbody>
-						<tr style="background-color: #6EA8E4;" id="noStripeMe">
-							<td colspan = "4">{{#if startkey_docid}}<div id="nextLink" onmouseover="style.color='red';" onmouseout="style.color='#034AF3';">&gt;&gt;</div>{{/if}}</td>
+						<tr id="noStripeMe">
+							<td colspan = "4">{{#if startkey_docid}}<div id="nextLink>&gt;&gt;</div>{{/if}}</td>
 						</tr>
 				</table>
 	       	</div>
