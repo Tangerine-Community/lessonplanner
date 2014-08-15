@@ -1,3 +1,32 @@
+function filterNextSelect(target) {
+
+	var 
+		$target,
+		$select,
+		value,
+		foundOptions = []
+	;
+
+	$target = $(target);
+	$select = $target.siblings("select");
+	value   = $target.val().toLowerCase();
+
+    $select.find("option").each(function(i, el) {
+    	var $el = $(el);
+    	if (!~$el.html().toLowerCase().indexOf(value)) { // hide anything that doesn't match
+    		el.style.visibility = 'hidden';
+    	} else { // show everything that does match, save it for later, remove it from here
+    		el.style.visibility = 'visible';
+    		foundOptions.push(el)
+    		$el.remove()
+    	}
+    });
+
+    // move all found options to the top of the list
+    $select.prepend(foundOptions);
+
+}
+
 function refreshChart(id, name) {
 	document.getElementById(id).innerHTML = name;
 }
