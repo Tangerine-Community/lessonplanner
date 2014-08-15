@@ -13,11 +13,20 @@ window.RecordElementView = Backbone.View.extend({
 		  this.colspan = 1;
 	  }
 	  $(this.el).attr('colspan',this.colspan);
-	  var currentId = $(this.el).attr('id');
-	  //console.log("currentId: " + currentId);
+	  
 	  var renderedHtml = this.template(this.model.toJSON());
+
 	  $(this.el).html(renderedHtml); 
-	  //console.log("currentId: "  + currentId + " renderedHtml: " + renderedHtml);
+
+	  // fix links
+
+	  $(this.el).find("source").each(function(i, el){
+	  	var $el = $(el);
+	  	var src = $el.attr("src");
+	  	var url = encodeURI("http://"+window.location.host+"/" + decodeURIComponent(src));
+	  	$el.attr("src", url);
+	  });
+
 	  return this;
   },
 });
