@@ -102,11 +102,16 @@ var HomeView = Backbone.View.extend({
 //		console.log("rendering HomeView");
 		//$(this.el).html(homeViewHtml);
 		$("#homePageView").html(homeViewHtml);
+
 		//if(FORMY.Incidents.length > 0){
 		FORMY.Incidents.each(this.addOne);
 		
-		$(".stripeMe tr").mouseover(function(){$(this).addClass("over");}).mouseout(function(){$(this).removeClass("over");});
-		$(".stripeMe tr:even").addClass("alt");
+
+		$('#incidents').dataTable({"iDisplayLength" : -1});
+
+
+		//$(".stripeMe tr").mouseover(function(){$(this).addClass("over");}).mouseout(function(){$(this).removeClass("over");});
+		//$(".stripeMe tr:even").addClass("alt");
 		return this;
 	},
 });

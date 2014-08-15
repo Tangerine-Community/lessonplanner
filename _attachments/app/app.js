@@ -102,7 +102,7 @@ var AppRouter = Backbone.Router.extend({
       viewDiv.setAttribute("id", "homePageView");
       $("#views").append(viewDiv);
     }
-    var limit = 16;
+    var limit = 1000;
     var searchResults = new IncidentsList();
     searchResults.db["keys"] = null;
     //var viewQuery = "byIncidentSorted?descending=true&limit=" + limit + "&startkey=" + startkey + "&startkey_docid=" + startkey_docid;
