@@ -86,25 +86,17 @@
         {
           "name": "Item",
           "tagName": "item",
-          "label": "Subject 1",
-          "labelItextID": "Subject1",
+          "label": "English",
+          "labelItextID": "English",
           "defaultValue": "1"
         },
         {
           "name": "Item",
           "tagName": "item",
-          "label": "Subject 2",
-          "labelItextID": "Subject2",
+          "label": "Kiswahili",
+          "labelItextID": "Kiswahili",
           "defaultValue": "2"
-        },
-        {
-          "name": "Item",
-          "tagName": "item",
-          "label": "Subject 3",
-          "labelItextID": "Subject3",
-          "defaultValue": "3"
         }
-
       ]
     },
     {
@@ -200,25 +192,7 @@
       "cols": "0",
       "identifier": "image",
       "inputType": "selectMult"
-     }, {
-      "label": "Media Order",
-      "value": "",
-      "options": [
-        {
-          "name": "optional",
-          "value": "true"
-        }
-      ],
-      "datatype": "string",
-      "visible": "true",
-      "closeRow": "true",
-      "colspan": "3",
-      "size": "25",
-      "rows": "0",
-      "cols": "0",
-      "identifier": "mediaOrder",
-      "inputType": "orderItems"
-    },
+     },
     {
       "label": "Save",
       "value": "",
