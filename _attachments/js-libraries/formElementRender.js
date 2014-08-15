@@ -262,17 +262,24 @@ Handlebars.registerHelper('ifEquals', function(context, fn, inverse, comparisonS
 		  }
 	  }
 	});
+
+
+Handlebars.registerHelper("stringEquals", function(conditional, options) {
+  if (options.hash.desired === options.hash.type) {
+    options.fn(this);
+  } else {
+    options.inverse(this);
+  }
+});
+
 Handlebars.registerHelper('renderSubject', function(value) {
   var out = "";
   switch (value){
     case "1":
-      out = "Subject 1";
+      out = "English";
       break;
     case "2":
-      out = "Subject 2";
-      break;
-    case "3":
-      out = "Subject 3";
+      out = "Kiswahili";
       break;
   }
   return out;
