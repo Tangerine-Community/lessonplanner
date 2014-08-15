@@ -193,11 +193,15 @@ Handlebars.registerHelper('dropdownValue', function(enumerations, value) {
 });
 
 Handlebars.registerHelper('renderAudio', function(value) {
+	return '';
 	var out = "";
   for (var i = 0; i < value.length; i++) {
-    out = out + '<p><audio controls preload="none">';
-    out = out + '<source src="/lessonplanner/_design/lessonplanner/' + value[i] + '"/>';
-    out = out + ' </audio><br/>' + decodeURIComponent(value[i]) + '</p> ';
+    out = ' \
+      <p> \
+        <audio controls preload="none"> \
+          <source src="http://'+window.location.host+'/' + value[i] + '"/> \
+        </audio><br> \
+      </p> ';
   }
 	return out;
 });
@@ -205,24 +209,9 @@ Handlebars.registerHelper('renderAudio', function(value) {
 Handlebars.registerHelper('renderImages', function(value) {
 	var out = "";
   for (var i = 0; i < value.length; i++) {
-    out = out + '<p><img src="/lessonplanner/_design/lessonplanner/' + value[i] + '"/>' +
+  	var url = decodeURIComponent("http://"+window.location.host+"/" + value[i]);
+    out = out + '<p><img src="' + url + '"/>' +
       '</p>';
-  }
-	return out;
-});
-
-Handlebars.registerHelper('renderOrderedAssets', function(value) {
-	var out = "";
-  for (var i = 0; i < value.length; i++) {
-    var asset = value[i];
-    if (asset.startsWith("lessons%2Fimages")) {
-      out = out + '<p><img src="/lessonplanner/_design/lessonplanner/' + value[i] + '"/>' +
-        '</p>';
-    } else {
-      out = out + '<p><audio controls preload="none">';
-      out = out + '<source src="/lessonplanner/_design/lessonplanner/' + value[i] + '"/>';
-      out = out + ' </audio><br/>' + decodeURIComponent(value[i]) + '</p> ';
-    }
   }
 	return out;
 });
