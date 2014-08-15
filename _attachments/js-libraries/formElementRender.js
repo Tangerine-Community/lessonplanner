@@ -104,10 +104,14 @@ Handlebars.registerHelper("renderWidget", function(context) {
 	} else if (inputType == 'button') {
 		template = buttonWidgetCompiledHtml;
   } else if (inputType == 'selectMult') {
+    /*
+    if (identifier === 'audio') {
+      template = displayAudioWidgetCompiledHtml;
+    } else {
+      template = displayImagesWidgetCompiledHtml;
+    }*/
 		template = selectMultipleWidgetCompiledHtml;
-  } else if (inputType == 'orderItems') {
-		template = orderItemsWidgetCompiledHtml;
-	} else {
+  } else {
 		useTemplate = false; 
 	};
 	if (useTemplate) {
