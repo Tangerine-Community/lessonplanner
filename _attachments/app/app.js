@@ -232,32 +232,13 @@ var AppRouter = Backbone.Router.extend({
       success: function(form, resp){
         var newModel = new Form();
         var newPatientFormView = new FormView({model: newModel, currentForm:form, el: $("#formRenderingView")});
-        FORMY.audioFiles = [];
-        FORMY.imageFiles = [];
-        FORMY.assets = new AssetCollection();
-        FORMY.assets.db["view"] = ["byAttachment"];
-        FORMY.assets.fetch(
-          {
-            success : function(){
-//              console.log("item count: " + FORMY.assets.length);
-              for(var index in FORMY.assets.models) {
-                var asset = Object.keys(FORMY.assets.models[index].attributes)[0]
-                if (asset.startsWith("lessons/audio/")) {
-                  FORMY.audioFiles.push(asset);
-                  //console.log( "asset : " + asset);
-                } else if (asset.startsWith("lessons/images/")) {
-                  FORMY.imageFiles.push(asset);
-                  //console.log( "asset : " + asset);
-                }
-              }
-              //console.log( "FORMY.audioFiles : " + FORMY.audioFiles);
-              newPatientFormView.render();
-            },
-            error : function(){
-              console.log("Error loading FORMY.assets: " + arguments);
-            }
-          }
-        )
+        
+        var url = "/"+Backbone.couch_connector.config.db_name+'/lesson_assets';
+        $.getJSON(url,function(data){
+          FORMY.audioFiles = data.audio.sort();
+          FORMY.imageFiles = data.images.sort();
+          newPatientFormView.render();
+        });
       },
       error: function() {
         console.log("Error loading incident: " + arguments);
@@ -359,6 +340,7 @@ var AppRouter = Backbone.Router.extend({
               console.log("record: " + JSON.stringify(record));
               FORMY.loadForm(record.get("formId"), null,{
                 success: function(form){
+
                   form.set({"patientSurname": patient.get('surname')});
                   form.set({"patientForenames": patient.get('forenames')});
                   form.set({"patientMiddle_name": patient.get('Middle_name')});
@@ -374,31 +356,13 @@ var AppRouter = Backbone.Router.extend({
         } else {
           FORMY.loadForm(record.get("formId"), null,{
             success: function(form){
-              FORMY.audioFiles = [];
-              FORMY.imageFiles = [];
-              FORMY.assets = new AssetCollection();
-              FORMY.assets.db["view"] = ["byAttachment"];
-              FORMY.assets.fetch(
-                {
-                  success : function(){
-                    console.log("item count: " + FORMY.assets.length);
-                    for(var index in FORMY.assets.models) {
-                      var asset = Object.keys(FORMY.assets.models[index].attributes)[0]
-                      if (asset.startsWith("lessons/audio/")) {
-                        FORMY.audioFiles.push(asset);
-                        //console.log( "asset : " + asset);
-                      } else if (asset.startsWith("lessons/images/")) {
-                        FORMY.imageFiles.push(asset);
-                        //console.log( "asset : " + asset);
-                      }
-                    }
-                    (new FormView({model: record, currentForm:form, el: $("#formRenderingView")})).render();
-                  },
-                  error : function(){
-                    console.log("Error loading FORMY.assets: " + arguments);
-                  }
-                }
-              )
+              var url = "/"+Backbone.couch_connector.config.db_name+'/lesson_assets';
+              $.getJSON(url,function(data){
+                FORMY.audioFiles = data.audio.sort();
+                FORMY.imageFiles = data.images.sort();
+                (new FormView({model: record, currentForm:form, el: $("#formRenderingView")})).render();
+              });
+                    
             },
             error : function(){
               console.log("Error loading form: " + arguments);
