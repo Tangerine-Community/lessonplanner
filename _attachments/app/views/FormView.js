@@ -67,11 +67,6 @@ var FormView = Backbone.View.extend({
 			this.formElements.add(revWidget,{at: 5});
 		}
 		this.formElements.each(this.addOne);
-    $( "#sortable" ).sortable();
-    $( "#sortable" ).disableSelection();
-
-    var sortedValues = $( "#sortable" ).sortable( "toArray" );
-    $("#mediaOrder").val(sortedValues);
 		return this;
 	},
   //recordSaved: false,
@@ -201,17 +196,9 @@ var FormView = Backbone.View.extend({
 //    "click #lessonText" : "enableCkeditor"
   },
   resetOrder: function() {
+    return;
 //    var sortedValues = $( "#sortable" ).sortable( "toArray" );
 //    $("#mediaOrder").val(sortedValues);
-    var selectedMediaItems = [];
-    $('#image :selected').each(function(i, selected){
-      selectedMediaItems.push($(selected).text());
-      //console.log("selectedMediaItems[i]: " + i + " text: " + $(selected).text())
-    });
-    $('#audio :selected').each(function(i, selected){
-      selectedMediaItems.push($(selected).text());
-    });
-    var sortedValues = $( "#sortable" ).sortable( "toArray" );
 
 
     // check if we need to add any items
@@ -256,13 +243,6 @@ var FormView = Backbone.View.extend({
   },
   saveRecord: function(e){ 
 	  e.preventDefault();
-    var sortedValues = $( "#sortable" ).sortable( "toArray" );
-    for(var i=0; i < sortedValues.length; i++) {
-      sortedValues[i] = sortedValues[i].replace(/ZZZ/g, '%');
-      sortedValues[i] = sortedValues[i].replace(/XXX/g, '.');
-    }
-//    $("#mediaOrder").val(sortedValues);
-    console.log("sortedValues: " + sortedValues);
 	  console.log("validating the form submission.");
 	  var validationErrors = [];
 	  this.formElements.each(function(formElement){
@@ -279,7 +259,6 @@ var FormView = Backbone.View.extend({
 		  var formData = $("#theForm").toObject();
       var editor_data = CKEDITOR.instances.lessonText.getData();
       formData["lessonText"] = editor_data;
-      formData["mediaOrder"] = sortedValues;
 		  var formId = $("#formId").val();
 		  console.log("formData: " + JSON.stringify(formData));
 		  var _id = formData._id;

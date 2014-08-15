@@ -34,7 +34,6 @@ genderWidgetCompiledHtml = Handlebars.compile($("#genderWidget").html());
 hiddenWidgetCompiledHtml = Handlebars.compile($("#hiddenWidget").html());
 buttonWidgetCompiledHtml = Handlebars.compile($("#buttonWidget").html());
 selectMultipleWidgetCompiledHtml = Handlebars.compile($("#selectMultipleWidget").html());
-orderItemsWidgetCompiledHtml = Handlebars.compile($("#orderItemsWidget").html());
 
 Handlebars.registerHelper("renderWidget", function(context) {
 	//console.log("renderWidget:" + JSON.stringify(context));

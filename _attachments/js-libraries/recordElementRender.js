@@ -32,7 +32,6 @@ displaySubHeaderWidgetCompiledHtml = Handlebars.compile($("#displaySubHeaderWidg
 displayInfotextWidgetCompiledHtml = Handlebars.compile($("#displayInfotextWidget").html());
 displayAudioWidgetCompiledHtml = Handlebars.compile($("#displayAudioWidget").html());
 displayImagesWidgetCompiledHtml = Handlebars.compile($("#displayImagesWidget").html());
-displayOrderItemsWidgetCompiledHtml = Handlebars.compile($("#displayOrderItems").html());
 
 Handlebars.registerHelper("renderValue", function(context) {
 	//console.log("renderValue:" + JSON.stringify(context));
@@ -103,13 +102,13 @@ Handlebars.registerHelper("renderValue", function(context) {
 	} else if (inputType == 'button') {
 		template = doNotRenderCompiledHtml;
   } else if (inputType == 'selectMult') {
+  	console.log("select mult");
+  	console.log(identifier);
     if (identifier === 'audio') {
       template = displayAudioWidgetCompiledHtml;
     } else {
       template = displayImagesWidgetCompiledHtml;
     }
-  } else if (inputType == 'orderItems') {
-    template = displayOrderItemsWidgetCompiledHtml;
 	} else {
 		useTemplate = false; 
 	};
