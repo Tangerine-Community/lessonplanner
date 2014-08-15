@@ -1,8 +1,8 @@
 var FORMY = {};
 /** Configure the database **/
 
-	Backbone.couch_connector.config.db_name = "lessonplanner";
-	Backbone.couch_connector.config.ddoc_name = "lessonplanner";
+	Backbone.couch_connector.config.db_name = "lp";
+	Backbone.couch_connector.config.ddoc_name = "lp";
 
 // If set to true, the connector will listen to the changes feed
 // and will provide your models with real time remote updates.
