@@ -290,6 +290,22 @@ Handlebars.registerHelper('renderSelector', function(list, value) {
   }
   return out;
 });
+
+Handlebars.registerHelper('renderAudioCode', function( ) {
+  var out = '';
+
+  if (this.identifier === "audio")
+  {
+    out = " \
+      <h2>Embed code</h2> \
+      <div id='audio-code' style='font-size:10px; padding:20px; background-color:#ccc;'></div> \
+    ";
+  }
+
+  return out;
+
+});
+
 Handlebars.registerHelper('renderCkeditor', function(identifier, value) {
   var out = "<br/><textarea id='"+ identifier + "' name='"+ identifier + "' " + ">"+ value + "</textarea>";
   //CKEDITOR.replace('lessonText');
