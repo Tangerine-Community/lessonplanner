@@ -11,17 +11,31 @@ window.FormElementView = Backbone.View.extend({
     "change" : "validate"
   },
   validate: function() {
+
     // clear old error messages before validation occurs
     this.$(".error-message").html("").hide();
     this.inputType = this.model.get("inputType");
-    console.log("inputType: " + this.inputType);
 //	  if (this.inputType == "selectCascadeParent") {
 //		  var cascadeForm = $('#theForm');
 //		  var parent = cascadeForm.find('#subcounty');
 //		  var child = cascadeForm.find('#village'); 
 //		  cascadeSelect(parent, child);
 //	  }
-    this.currentValue = this.$("input").val();
+    this.inputs = this.$("input")
+    this.selects = this.$("select") 
+    
+    this.currentInput = this.selects || this.inputs;
+
+    this.currentValue = this.currentInput.val();
+
+    // AudioCode
+    thisId = $(this.currentInput).attr("id")
+    if ( thisId == "audio" )
+    {
+      var src = this.currentValue;
+      this.$el.find("#audio-code").html("&lt;audio controls='' preload='non'&gt;<br>&lt;source src='"+src+"'&gt;<br>&lt;/audio&gt;");
+    }
+
     if (this.inputType == "dropdown") {
     	this.currentValue = this.$("select").val();
     } else if (this.inputType == "dropdown-add-one") {
