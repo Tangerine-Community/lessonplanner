@@ -113,18 +113,25 @@
     <button id='{{identifier}}' type='button' style="width:{{width}}; height:{{height}}; font-size: 12pt;">{{label}}</button>
 </script>
 <script id="selectMultipleWidget" type="text/x-handlebars-template">
+    <br>
     <select id='{{identifier}}' {{#options}}data-{{name}}='{{value}}' {{/options}} name='{{identifier}}' multiple size='10'>
     {{#renderSelector enumerations value}}
     {{/renderSelector}}
-    </select>
+    </select><br>
+    <input type='search' onChange='filterNextSelect(this)'><br>
+
+    {{#renderAudioCode identifier}}
+    {{/renderAudioCode}}
+    <br>
 </script>
+
 <script id="displayAudioWidget" type="text/x-handlebars-template">
-    <!--{{#renderAudio value}}-->
-    <!--{{/renderAudio}}-->
+    {{#renderAudio value}}
+    {{/renderAudio}}
 </script>
 <script id="displayImagesWidget" type="text/x-handlebars-template">
-    <!--{{#renderImages value}}-->
-    <!--{{/renderImages}}-->
+    {{#renderImages value}}
+    {{/renderImages}}
 </script>
 <script id="orderItemsWidget" type="text/x-handlebars-template">
     {{#renderOrderItems identifier}}
