@@ -3,12 +3,25 @@
 LessonPlanner is a Couchapp that uses [Coconut](https://github.com/chrisekelley/coconut) to create an admin interface for
 creating and previewing multimedia lesson plans.
 
-Place the lesson assets in _attachments/lessons:
- - mp3 audio files in _attachments/lessons/audio
- - image files in _attachments/lessons/images
+## Assets part
 
-Coconut has been slightly modified to render user interfaces for managing the audio and image assets.
-[CKEditor](http://ckeditor.com/) is used for providing a rich text editor for lesson text.
+Make the assets accessible from localhost/lessons/audio, and localhost/lessons/images. Make sure the assets are listed in `_docs/lesson_assets.json` and looks like this `{"audio":["lessons/audio/fileone.mp3"],"images":["lessons/images/fileone.jpg"]}`
+
+An example nginx directive would simply be
+
+    server {
+      root /var/www/static/mmlp/;
+      location /lessons/ {
+        autoindex on;
+      }
+    }
+
+Where your assets files are located in `/var/www/static/mmlp/lessons/[images/audio]`.
+
+The reason for the separate location of assets is that it was proving difficult to upload 0.5GB of data to CouchDB with every single update / debug step to the app.
+
+Coconut has been slightly modified to render user interfaces for managing the audio and image assets. [CKEditor](http://ckeditor.com/) is used for providing a rich text editor for lesson text.
+
 
 A slightly edited version of the Coconut readme follows:
 
