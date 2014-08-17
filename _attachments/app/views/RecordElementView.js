@@ -23,7 +23,7 @@ window.RecordElementView = Backbone.View.extend({
 	  $(this.el).find("source").each(function(i, el){
 	  	var $el = $(el);
 	  	var src = $el.attr("src");
-	  	var url = encodeURI("http://"+window.location.host+"/" + decodeURIComponent(src));
+	  	var url = encodeURI("http://"+window.location.hostname+"/" + decodeURIComponent(src));
 	  	$el.attr("src", url);
 	  });
 

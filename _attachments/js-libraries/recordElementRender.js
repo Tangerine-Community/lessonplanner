@@ -199,7 +199,7 @@ Handlebars.registerHelper('renderAudio', function(value) {
     out = ' \
       <p> \
         <audio controls preload="none"> \
-          <source src="http://'+window.location.host+'/' + value[i] + '"/> \
+          <source src="http://'+window.location.hostname+'/' + value[i] + '"/> \
         </audio><br> \
       </p> ';
   }
@@ -209,7 +209,7 @@ Handlebars.registerHelper('renderAudio', function(value) {
 Handlebars.registerHelper('renderImages', function(value) {
 	var out = "";
   for (var i = 0; i < value.length; i++) {
-  	var url = decodeURIComponent("http://"+window.location.host+"/" + value[i]);
+  	var url = decodeURIComponent("http://"+window.location.hostname+"/" + value[i]);
     out = out + '<p><img src="' + url + '"/>' +
       '</p>';
   }
