@@ -147,6 +147,7 @@
 "lessons/images/Kiswahili_C1_W11_D2.png",
 "lessons/images/Kiswahili_C1_W25_D3-4.png",
 "lessons/images/Kiswahili_C2_W29_D5.png",
+"lessons/images/English_C2_W27_D1-2-2.png",
 "lessons/images/English_C1_W2_D2.png",
 "lessons/images/Kiswahili_C1_W27_D3-4b.png",
 "lessons/images/Kiswahili_C1_W29_D3-4b.png",
@@ -262,11 +263,8 @@
 "lessons/images/English_C1_W28_D1-2.png",
 "lessons/images/English_C2_W13_D5.png",
 "lessons/images/Kiswahili_C1_W28_D3-4b.png",
-
 "lessons/images/Kiswahili_C1_W15_D3-4.png",
 "lessons/images/English_C2_W26_D1-2b.png",
-
-
 "lessons/images/Kiswahili_C1_W26_D3-4.png",
 "lessons/images/Kiswahili_C2_W1_D3-4_b.png",
 "lessons/images/Kiswahili_C2_W12_D1-2b.png",
@@ -599,10 +597,8 @@
 "lessons/images/Kiswahili_C2_W13_D3-4.png",
 "lessons/images/Kiswahili_C2_W30_D3-4b.png",
 "lessons/images/English_C1_W6_D5.png",
-"lessons/images/English_C2_W22_D1-2.png"
-],
-
-"audio":[
+"lessons/images/English_C2_W22_D1-2.png"],
+"audio": [
 "lessons/audio/Class 1 Kiswahili/b a ba.mp3",
 "lessons/audio/Class 1 Kiswahili/g i gi.mp3",
 "lessons/audio/Class 1 Kiswahili/b u bu.mp3",
@@ -610,40 +606,32 @@
 "lessons/audio/Class 1 Kiswahili/y u yu.mp3",
 "lessons/audio/Class 1 Kiswahili/a ka ta ka akataka_w3d2.mp3",
 "lessons/audio/Class 1 Kiswahili/j.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/Aisha na shiko wazawadiwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/sh.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/sha.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/she.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/shi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day3/sho.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 13/Day4/si.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day4/shu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day4/Aisha na shiko wazawadiwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day4/su.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day4/shi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 13/Day2/athari za ukataji wa mti.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day2/vo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day2/fo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day2/fe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day2/ve.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/athari za ukataji wa mti.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/va.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/vi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/vu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/v.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day1/ve.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 13/Day5/Chozi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 13/Day5/Dereva na kima.mp3",
 "lessons/audio/Class 1 Kiswahili/b o bo 2.mp3",
 "lessons/audio/Class 1 Kiswahili/herufi d.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/ti,ki,ti -tikiti.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/nia.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/itika.mp3",
@@ -657,7 +645,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/kima.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/m,i -mi.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 3/k,i -ki.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/kitabu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/tama.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/mti.mp3",
@@ -673,13 +660,11 @@
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/kaka na amu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/tamu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 1/mataa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 5/tatu .mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 5/t.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 5/day5 stori -amu na kaa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 5/ta.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 5/kitu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/mii.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/t,ii -tii.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/ii (2).mp3",
@@ -687,39 +672,32 @@
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/m,ii -mii.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/ii.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 4/kii.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 2/t,u -tu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 2/t.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 2/m,u -mu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 2/kaka na amu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 3/Day 2/m,uu muu.mp3",
 "lessons/audio/Class 1 Kiswahili/k a ka_w2d5.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/story mavazi ya zamani.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/ng_e nge.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/ng_a nga.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/ngu_u ngu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/ng.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day3/ng_o ngo.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 16/Day4/ng'_a ng'a.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day4/k_a ka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day4/ng_a nga.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day4/ng.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 16/Day2/gh_i ghi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day2/g_i gi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day2/h_i hi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day2/story adhabu ya mwizi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day2/k_i ki.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 16/Day1/gh_e ghe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day1/gh_u ghu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day1/gh_a gha.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day1/story adhabu ya mwizi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day1/gh_o gho.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 16/Day5/story nasibu abahatika.mp3",
 "lessons/audio/Class 1 Kiswahili/week 16/Day5/story mavazi ya mama fatuma.mp3",
 "lessons/audio/Class 1 Kiswahili/Ziara ya Raisi.mp3",
@@ -733,68 +711,50 @@
 "lessons/audio/Class 1 Kiswahili/b.mp3",
 "lessons/audio/Class 1 Kiswahili/k e ke (2).mp3",
 "lessons/audio/Class 1 Kiswahili/ki ma kima.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/dha.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/dhi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/dh.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/dhe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/dho.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day3/godhana atajirika.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 14/Day4/dhi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day4/di.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day4/du.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day4/godhana atajirika.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day4/dhu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 14/Day2/nyamari na nyuki.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day2/nya.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day2/ne.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day2/nye.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day2/na.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/nyamari na nyuki.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/nya.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/ny.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/nyi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/nye.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day1/nyu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 14/Day5/hadithi ya vidole.mp3",
 "lessons/audio/Class 1 Kiswahili/week 14/Day5/usafi.mp3",
 "lessons/audio/Class 1 Kiswahili/l o lo.mp3",
 "lessons/audio/Class 1 Kiswahili/w e we.mp3",
 "lessons/audio/Class 1 Kiswahili/l o lo 2.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 11/Day3/Wamiti na hawa wahukumiwa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 11/Day4/waya wa waka moto.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 11/Day2/tai na kima.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 11/Day1/m.mp3",
 "lessons/audio/Class 1 Kiswahili/week 11/Day1/kaka na ka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 11/Day1/a.mp3",
 "lessons/audio/Class 1 Kiswahili/week 11/Day1/u.mp3",
 "lessons/audio/Class 1 Kiswahili/week 11/Day1/k.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 11/Day5/miezi.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 21/Day3/story nyumba ya ghorofa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 21/Day4/story fundi hodari.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 21/Day2/th.mp3",
 "lessons/audio/Class 1 Kiswahili/week 21/Day2/dh.mp3",
 "lessons/audio/Class 1 Kiswahili/week 21/Day2/ny.mp3",
 "lessons/audio/Class 1 Kiswahili/week 21/Day2/ch.mp3",
 "lessons/audio/Class 1 Kiswahili/week 21/Day2/story chebichi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 21/Day1/story paa la shule yetu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 21/Day5/story kima na papa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 21/Day5/story asubuhi.mp3",
 "lessons/audio/Class 1 Kiswahili/b s ku ti biskuti.mp3",
@@ -810,8 +770,6 @@
 "lessons/audio/Class 1 Kiswahili/m u mu.mp3",
 "lessons/audio/Class 1 Kiswahili/a ma ama.mp3",
 "lessons/audio/Class 1 Kiswahili/mama na kima mkuu.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/tatu .mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/paka na kaka na mama.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/kaka.mp3",
@@ -822,7 +780,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/kuku.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/kama.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 3/ka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/m,u-mu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/day1 stori-paka na ua.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/day1 story-katumbo.mp3",
@@ -833,16 +790,13 @@
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/tatu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/kuku.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 1/uta.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 5/mama na paka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 5/amua.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 5/u.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 5/makaa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 4/k (2).mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 4/paka na kaka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 4/k,a -ka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 2/u.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 2/day2 stori- paka na ua.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 2/Day 2/uu.mp3",
@@ -856,17 +810,12 @@
 "lessons/audio/Class 1 Kiswahili/b o bo 3.mp3",
 "lessons/audio/Class 1 Kiswahili/enda.mp3",
 "lessons/audio/Class 1 Kiswahili/l i li.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 5/mafumbo ya wanyama.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 2/a  tangaze  -  atangaze.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 2/jamii ya eda na kazi zao.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 2/hu  hudumia  -  huhudumia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 2/hu  fundisha  -  hufundisha.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 2/a  nge  penda  -  angependa.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/ma  ju  mba  -  majumba.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/i  pi  -  spi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/a  wa  -  njwa.mp3",
@@ -878,7 +827,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/re  di  o  ni  -  redioni.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/wa  ki  li  -  wakili.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 1/m  ha  ndi  si  -  muhandisi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/nje  ma  -  njema.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/a  ta  -  kta.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/O  g  le  -  ogle.mp3",
@@ -890,23 +838,17 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/a  wa  -  kwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/kwa  nza  -  kwanza.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 3/a  ja  -  nja.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 4/ni  fanikiwe  -  nifanikiwe.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 4/kazi nizipendazo.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 4/ni  fundishe  -  nifundishe.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 4/ni  nge  penda  -  ningependa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 27/DAY 4/ni  ta  saidia  -  nitasaidia.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 5/ndovu na sungura.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 2/hu  ongezeka  -  huongezeka.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 2/u  ta  wa  sikia  - utawasikia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 2/wa  ki  imba  -  wakiimba.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 2/ha  wa  onekani  -  hawaonekani.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 2/utabiri wa hali ya hewa.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/ki  a  nga  zi  -  kiangazi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/vi  pa  wa  -  vipawa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/m  vu  a  -  mvua.mp3",
@@ -914,7 +856,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/ma  ba  di  li  ko  -  mabadiliko.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/vyu  ra  -  vyura.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 1/utabiri wa hali ya hewa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/ki  wa  ngo  -  kiwango.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/u  ta  a  la  mu  -  utaalamu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/ba  a dhi  - baadhi.mp3",
@@ -922,7 +863,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/m  cha  na  -  mchana.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/ku  twa  -  kutwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 3/utabiri wa hali ya hewa 2.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 4/ku  tembelea  -  kutembelea.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 4/i  me  karibia  -  imekaribia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 29/DAY 4/wa  me  ji  ficha  -  wamejificha.mp3",
@@ -937,8 +877,6 @@
 "lessons/audio/Class 1 Kiswahili/h u hu.mp3",
 "lessons/audio/Class 1 Kiswahili/k i ki_w4-maybe.mp3",
 "lessons/audio/Class 1 Kiswahili/a ka ku mbali akakumbali.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/Biskuti.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/b.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/mkebe.mp3",
@@ -955,7 +893,6 @@
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/bo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/birika.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 3/hema2.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/sara.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/sukuma.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/si.mp3",
@@ -971,17 +908,14 @@
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/asubuhi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/sa silabi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 1/soko.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 7/Day 5/b.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 5/story D5W7.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/b.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/wakatoa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/wakatamani.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/wakatabasamu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/waliamka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 4/bi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 7/Day 2/nitawasema.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 2/lu2.mp3",
 "lessons/audio/Class 1 Kiswahili/week 7/Day 2/waliwatesa.mp3",
@@ -995,17 +929,12 @@
 "lessons/audio/Class 1 Kiswahili/Yerusa ya wetu story.mp3",
 "lessons/audio/Class 1 Kiswahili/a na o na anaona_w4d1.mp3",
 "lessons/audio/Class 1 Kiswahili/r o ro.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 5/mafumbo ya maumbo.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 2/a  ka  furahi  -  akafurahi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 2/wa  ka  m  toroka  -  wakamtoroka.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 2/msichana mchafu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 2/ku  m  penda  -  kumpenda.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 2/ha  ku  penda  -  hakupenda.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/a  wa  -  nywa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/ku  su  gua  -  kusugua.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/ku  du  mi  sha  -  kudumisha.mp3",
@@ -1015,7 +944,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/m  si  ch  na  -  msichana.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/nywe  le  -  nywele.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 1/m  cha  fu  -  mchafu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/i  wi  -  kwi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/a  wa  -  mwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/siafu.mp3",
@@ -1027,7 +955,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/a  wa  -  chwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/ma  go  ti  ni  -  magotini.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 3/mi  guu  ni  -  miguuni.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 4/tu  me  lala  -  tumelala.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 4/wa  ka  tu  uma  -  wakatuuma.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 25/DAY 4/wa  ka  toweka  -  wakatoweka.mp3",
@@ -1043,39 +970,30 @@
 "lessons/audio/Class 1 Kiswahili/ha mu hamu.mp3",
 "lessons/audio/Class 1 Kiswahili/z e ze.mp3",
 "lessons/audio/Class 1 Kiswahili/e.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/Week 19/Day3/n_ja nja.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day3/n_de nde.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day3/story kaka banda.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day3/n_za nza.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 19/Day4/m_ti mti.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day4/m_ba mba.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day4/n_chi nchi.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day4/story kaka banda.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 19/Day2/m_vu mvu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day2/m_ku mku.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day2/story kajembe.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day2/m_fa mfa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day2/m_ba mba.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 19/Day1/m_me mme.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day1/story kajembe.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day1/m_pa mpa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day1/m_sa msa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day1/m_ta mta.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 19/Day5/panya nyumbani.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 19/Day5/story umuhimu wa mbuzi.mp3",
 "lessons/audio/Class 1 Kiswahili/w u wu.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 5/day 5/mtoto wa paka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 5/w1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 5/eday5.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/mwe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/we.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/mawe.mp3",
@@ -1092,7 +1010,6 @@
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/tena.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/neema na mwewe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 3/Eka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/eday4.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/akamwita.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/widay4.mp3",
@@ -1104,7 +1021,6 @@
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/ke.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/akamkamata.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 4/waDay4.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Watu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Watu day1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Wo.mp3",
@@ -1120,7 +1036,6 @@
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Wana.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Watoto wa kima.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 1/Wote.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 5/day 2/KO.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 2/Wakataka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 5/day 2/wakawaona.mp3",
@@ -1141,32 +1056,26 @@
 "lessons/audio/Class 1 Kiswahili/z u zu.mp3",
 "lessons/audio/Class 1 Kiswahili/b o bo_w7d3.mp3",
 "lessons/audio/Class 1 Kiswahili/y e ye.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 18/Day3/b_a ba.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day3/d_a da.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day3/b_o bo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day3/p_a pa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day3/story kiranja wetu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 18/Day4/p_u pu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day4/b_e be.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day4/p_e pe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day4/story kiranja wetu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day4/b_u bu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 18/Day2/o_e oe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day2/e_o eo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day2/story darasa la maria.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day2/o_u ou.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day2/o_i oi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 18/Day1/e_e ee.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day1/u_o uo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day1/story darasa la maria.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day1/a_o ao.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day1/i_o io.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 18/Day5/u_a ua.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day5/story mgeni darasani.mp3",
 "lessons/audio/Class 1 Kiswahili/week 18/Day5/i a ia.mp3",
@@ -1177,17 +1086,12 @@
 "lessons/audio/Class 1 Kiswahili/a li ja wa alijawa.mp3",
 "lessons/audio/Class 1 Kiswahili/zi wa ni ziwani.mp3",
 "lessons/audio/Class 1 Kiswahili/ma kaa makaa_w3d3.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 5/vitendawili.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 2/tu  ka  unda  -  tukaunda.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 2/tu  li  po  kua  -  tulipokua.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 2/tu  ka  shindana  -  tukashindana.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 2/ki  ka  shinda  -  kikashinda.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 2/upinde wa mvua.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/u  vu  -  mvu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/u  pi  nde  - upinde.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/m  vu  a  -  mvua.mp3",
@@ -1197,7 +1101,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/nye  ku  ndu  -  nyekundu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/i  vi  -  mvi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 1/upinde wa mvua.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/nye  u  si  -  nyeusi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/n  chi  -  nchi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/be  nde  ra -  bendera .mp3",
@@ -1209,7 +1112,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/ma  e  nde  le  o  -  maendeleo.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/hi  s  to  ri  a  - historia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 3/ng  o  -  ngo.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 4/wa  lio  pigania  -  waliopigania.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 4/tu  ki  pigania  -  tukipigania.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 26/DAY 4/rangi za bendera yetu.mp3",
@@ -1246,8 +1148,6 @@
 "lessons/audio/Class 1 Kiswahili/ma kaa makaa.mp3",
 "lessons/audio/Class 1 Kiswahili/m a ma_w4d2.mp3",
 "lessons/audio/Class 1 Kiswahili/wa tu watu.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/a na kaa anakaa.mp3",
 "lessons/audio/Class 1 Kiswahili/keki.mp3",
 "lessons/audio/Class 1 Kiswahili/n u u.mp3",
@@ -1274,8 +1174,6 @@
 "lessons/audio/Class 1 Kiswahili/t a ta_w4d2.mp3",
 "lessons/audio/Class 1 Kiswahili/Jino La zakayo.mp3",
 "lessons/audio/Class 1 Kiswahili/w o wo.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/wazazi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/kaza.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/silabi za.mp3",
@@ -1293,7 +1191,6 @@
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/wazazi1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/zu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 3/zamani.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/yerusa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/ya.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/yuko.mp3",
@@ -1309,10 +1206,8 @@
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/yu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/y2.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 1/yeye.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 8/Day 5/ayoo w8`d5.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 5/y2.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/silabi zo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/wakaelekea.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/wakawanunulia.mp3",
@@ -1322,7 +1217,6 @@
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/walikula.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/bo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 4/silabi yo.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 8/Day 2/bo2.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 2/anayetii.mp3",
 "lessons/audio/Class 1 Kiswahili/week 8/Day 2/yerusa yaya wetu story.mp3",
@@ -1335,79 +1229,62 @@
 "lessons/audio/Class 1 Kiswahili/week 8/Day 2/y2.mp3",
 "lessons/audio/Class 1 Kiswahili/Adidi na baba sokoni.mp3",
 "lessons/audio/Class 1 Kiswahili/b e be 2.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/chi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/mchezo wa wanyama.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/che.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/ch.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/cho.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day3/cha.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 15/Day4/h_u hu.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day4/mchezo wa wanyama.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day4/chu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day4/ch.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day4/j_u ju.MP3.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 15/Day2/tha.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day2/to.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day2/tho.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day2/ta.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day2/nyati na nyoka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 15/Day1/tha.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day1/th.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day1/thu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day1/nyati na nyoka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day1/thi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 15/Day5/story wasafiri sita.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/week 15/Day5/story nyororo za dhahabu.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/wa za zi wazazi.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 12/Day3/f.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day3/fa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day3/fo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day3/fe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day3/Matokeo ya Apese.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/we.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/f.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/pe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/fe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/Matokeo ya Apese.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day4/ke.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 12/Day2/pwe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day2/pwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day2/siku kuu ya pasaka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/pi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/pe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/siku kuu ya pasaka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/pu.MP3.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/po.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day1/p.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 12/Day5/chura mpenda maua.mp3",
 "lessons/audio/Class 1 Kiswahili/week 12/Day5/Usafiri.mp3",
 "lessons/audio/Class 1 Kiswahili/he le na helena.mp3",
 "lessons/audio/Class 1 Kiswahili/herufi ka.mp3",
 "lessons/audio/Class 1 Kiswahili/k a ka.mp3",
 "lessons/audio/Class 1 Kiswahili/d u du.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 5/mfalme simba na sungura.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 2/a  li  furahi  -  alifurahi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 2/wa  li  o  nona  -  walionona.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 2/ku  wa  patia  -  kuwapatia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 2/wa  li  endelae  -  waliendelea.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 2/mifugo ya naliaka 1.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/ma  zi  wa  -  maziwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/ng'o  mbe  -  ng'ombe.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/m  ku  li  ma  -  mkulima.mp3",
@@ -1415,7 +1292,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/ngu  ru  we  -  nguruwe.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/mifugo ya naliaka 1.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 1/a  su  bu  hi  -  asubuhi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/dha  ti  -  dhati.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/ni  u  a  we  -  niuawe.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/mwe  u  si  -  mweusi.mp3",
@@ -1423,7 +1299,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/so  se  ji  -  soseji.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/m  ku  ta  no  -  mkutano.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 3/gha  la  ni  -  ghalani.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 4/ni  me  anza  -  nimeanza.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 4/wa  li  kuwa  -  walikuwa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 30/DAY 4/a  ka  fikiria  -  akafikiria.mp3",
@@ -1435,24 +1310,18 @@
 "lessons/audio/Class 1 Kiswahili/herufi j.mp3",
 "lessons/audio/Class 1 Kiswahili/Ja nu a ri januari.mp3",
 "lessons/audio/Class 1 Kiswahili/t e te.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 22/Day3/story sare ya shule.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day3/v_i vi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day3/sh_u shu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day3/f_i fi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day3/s_u su.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 22/Day4/story sare ya shule.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 22/Day2/story dukani.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 22/Day1/d_u du.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day1/f_u fu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day1/ch_u chu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day1/story dukani.mp3",
 "lessons/audio/Class 1 Kiswahili/week 22/Day1/b_u bu.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 22/Day5/story rafiki kalulu.mp3",
 "lessons/audio/Class 1 Kiswahili/sa ra sara.mp3",
 "lessons/audio/Class 1 Kiswahili/herufi g.mp3",
@@ -1480,8 +1349,6 @@
 "lessons/audio/Class 1 Kiswahili/ne e ma.mp3",
 "lessons/audio/Class 1 Kiswahili/m a ma.mp3",
 "lessons/audio/Class 1 Kiswahili/a su bu hi asubuhi.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/ota.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/toto.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/moto.mp3",
@@ -1498,7 +1365,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/omba.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/o.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 3/na.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/ina.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/n,a -na.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/nini.mp3",
@@ -1518,11 +1384,9 @@
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/anaona.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/kaa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 1/nanasi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 5/kamau na kaimati.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 5/n.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 5/o.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/a,na,taka -anataka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/oo.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/n,i -ni.mp3",
@@ -1534,7 +1398,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/n,o -no.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/ni.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 4/a,na,toa -anatoa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 2/n,a -na.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 2/a,na,taka -anataka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 4/Day 2/a,na,tamani -anatamani.mp3",
@@ -1566,8 +1429,6 @@
 "lessons/audio/Class 1 Kiswahili/n i ni_w4d4.mp3",
 "lessons/audio/Class 1 Kiswahili/t u tu.mp3",
 "lessons/audio/Class 1 Kiswahili/r.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/do.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/dakika.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/ibada.mp3",
@@ -1583,7 +1444,6 @@
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/de.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/darasa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 3/dada.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/gogo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/ga.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/ge.mp3",
@@ -1600,12 +1460,10 @@
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/babu1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/gazeti.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 1/g.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 9/Day 5/g2.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 5/dakika.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 5/d5w9story.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 5/d2.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/akawatoa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/ba W9d4.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/d2.mp3",
@@ -1613,7 +1471,6 @@
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/da1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/walielekea.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 4/de1.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 9/Day 2/gu1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 2/walitaka.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 2/goo.mp3",
@@ -1623,8 +1480,6 @@
 "lessons/audio/Class 1 Kiswahili/week 9/Day 2/wakawagtega.mp3",
 "lessons/audio/Class 1 Kiswahili/week 9/Day 2/go.mp3",
 "lessons/audio/Class 1 Kiswahili/Njiwa wa ajabu w6 d5.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/ra.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/radi1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/ri.mp3",
@@ -1639,7 +1494,6 @@
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/radi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/mpira.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 3/raia (2).mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/j.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/alijawa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/jua.mp3",
@@ -1658,11 +1512,9 @@
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/jaa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/jee.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 1/ajali.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 10/Day 5/j.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 5/Jino la zakayo w10d5.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 5/r.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/r1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/lilisimama.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/akimaliza.mp3",
@@ -1672,7 +1524,6 @@
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/gu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/ru1.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 4/silabi Ju.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 10/Day 2/j.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 2/wakamwamini.mp3",
 "lessons/audio/Class 1 Kiswahili/week 10/Day 2/ju.mp3",
@@ -1687,28 +1538,22 @@
 "lessons/audio/Class 1 Kiswahili/mtoto.mp3",
 "lessons/audio/Class 1 Kiswahili/g u gu.mp3",
 "lessons/audio/Class 1 Kiswahili/d i di.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 20/day5/story tumbili na simba.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/day5/story mvua ya mawe.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 20/Day3/story mashindano ya mbio.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day3/m_wa mwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day3/t_wa twa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day3/k_wa kwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day3/b_wa bwa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 20/Day4/story mashindano ya mbio.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day4/sh_wa shwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day4/ng_wa ngwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day4/z_wa zwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day4/ny_wa nywa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 20/Day2/story jambazi akamatwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day2/f_ya fya.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day2/m_ya mya.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day2/p_ya pya.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 20/Day1/story jambazi akamatwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day1/v_yu vyu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 20/Day1/v_yo vyo.mp3",
@@ -1722,8 +1567,6 @@
 "lessons/audio/Class 1 Kiswahili/s o so 2.mp3",
 "lessons/audio/Class 1 Kiswahili/ma we mawe.mp3",
 "lessons/audio/Class 1 Kiswahili/d.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/hu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/kahama.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/hawa.mp3",
@@ -1738,7 +1581,6 @@
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/wahi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/kahawa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 3/ho.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/Lakiniday1w6.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/lolani.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/lu.mp3",
@@ -1751,10 +1593,8 @@
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/ala.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/lo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 1/l.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 6/Day 5/wid4.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 5/l.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/lid4.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/hi.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/ki.mp3",
@@ -1762,7 +1602,6 @@
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/alinunua.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/h.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 4/akamletea4.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/ld2w6.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/lilikuwa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/ned2w6.mp3",
@@ -1773,17 +1612,12 @@
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/Wod2.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/akamletea.mp3",
 "lessons/audio/Class 1 Kiswahili/week 6/Day 2/la.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 5/hadithi ya nzi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 2/ku  haribia  -  kuharibia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 2/a  li  ye  umba  -  aliyeumba.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 2/wa  karibia  -  wakaribia.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 2/wadudu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 2/mbali  mbali  -  mbalimbali .mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/chu  ngu  -  chungu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/vi  pe  pe  o  -  vipepeo.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/wadudu.mp3",
@@ -1791,7 +1625,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/nzi  ge  -  nzige.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/pa  nzi  -  panzi .mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 1/m  chwa  -  mchwa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/wa  du  du   -  wadudu.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/ma  ba  wa  -  mabawa.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/ka  dhaa  -  kadhaa.mp3",
@@ -1799,7 +1632,6 @@
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/hu  fa  ri  ki  -  hufariki.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/ma  fu  pi  -  mafupi.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 3/ma  ya  i  -  mayai.mp3",
-
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 4/hu  fariki  -  hufariki.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 4/vipepeo.mp3",
 "lessons/audio/Class 1 Kiswahili/WEEK 28/DAY 4/hu  penda  -  hupenda.mp3",
@@ -1816,35 +1648,23 @@
 "lessons/audio/Class 1 Kiswahili/ku mu u ma kumuuma.mp3",
 "lessons/audio/Class 1 Kiswahili/h o ho.mp3",
 "lessons/audio/Class 1 Kiswahili/n i ni.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 24/Day3/story siri ya otonglo.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day3/v_e ve.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day3/t_e te.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day3/w_e we.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day3/y_e ye.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 24/Day4/story siri ya otonglo.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 24/Day2/story dubu na bata.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 24/Day1/b_a ba.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day1/story dubu na bata.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day1/s_i si.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day1/p_a pa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 24/Day1/z_i zi.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 24/Day5/story umoja wa siafu.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 23/Day3/story lishe bora.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 23/Day4/story lishe bora.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 23/Day2/story hadithi ya toili.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 23/Day1/story hadithi ya toili.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 23/Day5/story vyakula mbalimbali.mp3",
 "lessons/audio/Class 1 Kiswahili/b o bo.mp3",
 "lessons/audio/Class 1 Kiswahili/ma u a maua.mp3",
@@ -1874,8 +1694,6 @@
 "lessons/audio/Class 1 Kiswahili/kii.mp3",
 "lessons/audio/Class 1 Kiswahili/g u gu 3.mp3",
 "lessons/audio/Class 1 Kiswahili/h u hu 2.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/apa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/amua.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/acha.mp3",
@@ -1888,7 +1706,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/angu.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/linda.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day3/D3 story mama na paka.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/day 4 story-mama na paka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/m,a-ma.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/amua.mp3",
@@ -1896,14 +1713,12 @@
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/a.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/m,a,a-maa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day4/kaa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/Day 2 story Koki na mugambi.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/m.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/ma.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/paka.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/mama.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day2/anaona.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/Day 1 story Koki na Mugambi.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/mti.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/m.mp3",
@@ -1913,7 +1728,6 @@
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/mama.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/taa.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day1/makaa.mp3",
-
 "lessons/audio/Class 1 Kiswahili/Week 1/Day5/a.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day5/day5 story-katumbo.mp3",
 "lessons/audio/Class 1 Kiswahili/Week 1/Day5/ma ma neno hili ni mama.mp3",
@@ -1924,33 +1738,27 @@
 "lessons/audio/Class 1 Kiswahili/wa ka wa samehe wakawasamehe.mp3",
 "lessons/audio/Class 1 Kiswahili/la ki ni lakini.mp3",
 "lessons/audio/Class 1 Kiswahili/l u lu 2.mp3",
-
-
 "lessons/audio/Class 1 Kiswahili/week 17/Day3/0_ oa.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day3/story juma mvivu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day3/u_a ua.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day3/i a ia.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day3/e_a ea.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 17/Day4/a_e ae.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day4/story juma mvivu.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day4/a_u au.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day4/u_i ui.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day4/a_o ao.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 17/Day2/ng'_e ng'e.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day2/story ng'ang'a auza ngombe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day2/ng'_a ng'a.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day2/ng_e nge.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day2/ng_a nga.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/ng'_o ng'o.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/story ng'ang'a auza ngombe.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/ng'_a ng'a.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/ng'_i ng'i.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/ng'_u ng'u.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day1/ng'.mp3",
-
 "lessons/audio/Class 1 Kiswahili/week 17/Day5/story marangi aenda kwa king'ori.mp3",
 "lessons/audio/Class 1 Kiswahili/week 17/Day5/story lokono na chatu.mp3",
 "lessons/audio/Class 1 Kiswahili/wezi sokoni 2.mp3",
@@ -1966,18 +1774,13 @@
 "lessons/audio/Class 1 Kiswahili/w u wu 2.mp3",
 "lessons/audio/Class 1 Kiswahili/herufi wa.mp3",
 "lessons/audio/Class 1 Kiswahili/herufi na.mp3",
-
-
-
-
+"lessons/audio/TimeOfDay.png",
 "lessons/audio/Class 2 Kiswahili/rejista.MP3",
 "lessons/audio/Class 2 Kiswahili/ny (2).MP3",
 "lessons/audio/Class 2 Kiswahili/akamwambia.MP3",
 "lessons/audio/Class 2 Kiswahili/a ka nieleza akanieleza.MP3",
 "lessons/audio/Class 2 Kiswahili/ya me oshwa yameoshwa.MP3",
 "lessons/audio/Class 2 Kiswahili/a li po taka alipotaka.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/ku u za kuuza.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/po li si polisi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/su fu ri a sufuria.MP3.mp3",
@@ -1985,7 +1788,6 @@
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/story swaleh ashikwa na polisi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/ma ka a makaa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 3/ge si gesi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/ma fu mbo mafumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/m ku li ma mkulima.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/sha mba ni shambani.MP3.mp3",
@@ -1993,14 +1795,9 @@
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/da k ta ri daktari.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/se re ma la seremala.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 1/ho s pi ta li ni hospitalini.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 5/story Fundi mukudi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 4/story swaleh ashikwa na polisi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 18/Day 2/story mafumbo ya kazi.MP3.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/story kuchora maumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/m cho ro mchoro.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/sa mbu sa sambusa.MP3.mp3",
@@ -2008,7 +1805,6 @@
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/m ra ba mraba.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/ke nge le kengele.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 3/sa ha ni sahani.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/du a ra duara.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/m ra ba mraba.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/ma u mbo maumbo.MP3.mp3",
@@ -2016,18 +1812,13 @@
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/pe mbe ta tu pembetatu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/story maumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 16/Day 1/m si ta ti li mstatili.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 16/Day 5/story mada ya angani na mazingira.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 16/Day 4/story kuchora maumbo.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 16/Day 2/story maumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Mchwa story 2.MP3",
 "lessons/audio/Class 2 Kiswahili/m 2.mp3",
 "lessons/audio/Class 2 Kiswahili/a li ya uza aliyauza.MP3",
 "lessons/audio/Class 2 Kiswahili/Kutapika.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/wa li zi bu a-walizibua.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/ma tu mbo-matumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/ki pi ndu pi ndu-kipindupindu.MP3.mp3",
@@ -2035,7 +1826,6 @@
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/ma go njwa-magonjwa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/story usafi wa mazingira.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 3/ma zi ngi ra-mazingira.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/ku na wa-kunawa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/se ku nde-sekunde.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/ma a gi zo-maagizo.mp3",
@@ -2043,16 +1833,11 @@
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/lo we sha-lowesha3.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/story maagiza ya kunawa mikono.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 1/vi ga nja-viganja.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 5/story ugonjwa wa kipindipindu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 4/story usafi wa mazingira.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 13/Day 2/story maagiza ya kunawa mikono.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/mbe gu mbegu 2.MP3",
 "lessons/audio/Class 2 Kiswahili/ma sha mba mashamba.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/m ku li ma mkulima.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/m pi shi mpishi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/m si cha na msichana.MP3.mp3",
@@ -2060,7 +1845,6 @@
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/nyo ro ro nyororo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/go do ro-godoro.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 3/fo ro nya foronya.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/mbo ga- mboga.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/m cha nga nyi ko-mchanganyiko.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/ma ha ra gwe-maharagwe.MP3.mp3",
@@ -2068,37 +1852,26 @@
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/mi ho go-mihogo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/ma tu nda-matunda.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 14/Day 1/ku je nga-kujenga.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 14/Day 5/story wanyama dukani.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 14/Day 4/story ndoto na kazi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 14/day 2/story lishe bora.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/m du du mdudu.MP3",
 "lessons/audio/Class 2 Kiswahili/i na yo pandwa inayopandwa.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/story mzee kibyego.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/ki bye go-kibyego.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/ku a ji ri-kuajiri.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/m hu nzi-mhunzi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/u vu mi li vu-uvumilivu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 3/bi ri ka-birika.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/ru ni nga-runinga.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/story teknologia.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/te k no lo ji a-tknolojia.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/te le vi she ni-televisheni.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/vi tu li zo-vitulizo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 11/Day 1/ru nu nu-rununu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 11/Day 5/story mwalimu ni malaika.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 11/Day 4/story mzee kibyego.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 11/Day 2/story teknologia.MP3.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/KU,SI,KI,ZA- KUSIKIZA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/SH,A - SHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/V,SH,DH.mp3",
@@ -2111,7 +1884,6 @@
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/TEKNOLOJIA - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/DH,O - DHO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day3/KU,TA,ZA,MA - KUTAZAMA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/CH,O- CHO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/KU,AMINI- KUAMINI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/WA,NA,WASILIANA- WANAWASILIANA.mp3",
@@ -2119,7 +1891,6 @@
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/CH,A - CHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/NY,E- NYE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day4/TU,NA,WEZA- TUNAWEZA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/MA,WA,SILIANO - MAWASILIANO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/J,O - JO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/J,R,F.mp3",
@@ -2130,7 +1901,6 @@
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/J,E - JE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/KU,WA,SILIANA- KUWASILIANA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day2/ZI,NA,WEZA- ZINAWEZA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/RU,NU,NU - RUNUNU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/SI,MU - SIMU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/G,A - GA.mp3",
@@ -2141,10 +1911,7 @@
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/G,U - GU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/VIFAA VYA OFISI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week2/Day1/Z,I - ZI.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week2/Day5/TEKNOLOJIA(3) - STORY.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/bu ndi bundi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/story maumbile ya ndege.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/ta u si tausi.MP3.mp3",
@@ -2152,7 +1919,6 @@
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/ma pa mbo mapambo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/chi ri ku chiriku.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 3/u shu ngi ushungi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/u sa fi ri usafiri.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/e ro p le ni eropleni.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/wa na ma ji wanamaji.MP3.mp3",
@@ -2160,19 +1926,14 @@
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/mi tu mbwi mitumbwi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/ba i s ke li baiskeli.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 21/Day 1/story usafiri.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 21/Day 5/story ugonjwa wa malaria.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 21/Day 4/story maumbile ya ndege.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 21/Day 2/story usafiri.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/wa na m jua wanamjua.MP3",
 "lessons/audio/Class 2 Kiswahili/humtembelea.MP3",
 "lessons/audio/Class 2 Kiswahili/a 2.MP3",
 "lessons/audio/Class 2 Kiswahili/m chwa mchwa.MP3",
 "lessons/audio/Class 2 Kiswahili/Wanakijiji wa mwili story.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/MA,NU,FAA- MANUFAA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/HU,BU,RU,DI,SHA - HUBURUDISHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/MA,GO,NJWA - MAGONJWA.mp3",
@@ -2180,16 +1941,13 @@
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/KU,O,GE,LE,A - KUOGELEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/SHAIRI LA MAJI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day3/BA,FU,NI - BAFUNI.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week10/Day4/YA,TA,CHAFUKA - YATACHAFUKA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day4/HU,YA,TAMANI - HUYATAMANI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day4/YA,KU,TAPIKA - YAKUTAPIKA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day4/HU,TU,LETEA - HUTULETEA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week10/Day2/ZI,LI,ZO,FUNIKWA - ZILIZOFUNIKWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day2/YA,KA,TANDA - YAKATANDA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day2/TU,KI,RUKARUKA - TUKIRUKARUKA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/MWA,NGA,ZA - MWANGAZA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/NGU,RU,MO - NGURUMO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/MBI,NGU - MBINGU.mp3",
@@ -2197,7 +1955,6 @@
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/RA,DI - RADI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/M,CHA,CHE - MCHACHE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week10/Day1/MA,WI,NGU - MAWINGU.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week10/Day5/MAJI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/wanaweza.MP3",
 "lessons/audio/Class 2 Kiswahili/zi me katwa zimekatwa.MP3",
@@ -2219,17 +1976,12 @@
 "lessons/audio/Class 2 Kiswahili/mi ho go mihogo.MP3",
 "lessons/audio/Class 2 Kiswahili/m.mp3",
 "lessons/audio/Class 2 Kiswahili/ya ka changia yakachangia.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 5/mafumbo.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 2/ku wa rudisha - kuwarudisha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 2/a li wa peleka - aliwapeleka.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 2/mzee ojwang'.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 2/wa me beba - wamebeba.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 2/wa li po kuwa - walipokuwa.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/ma_pa_cha mapacha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/mbu_zi mbuzi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/a_li_pa_sa alipasa.mp3",
@@ -2237,7 +1989,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/wa_li_o_sa_li_a waliosalia.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/mzee ojwang'.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 1/m_si_tu msitu.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/ku_fa_u_lu kufaulu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/ku_zi_ndi_sha kuzindisha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/ku_o_nge_za kuongeza.mp3",
@@ -2245,24 +1996,18 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/ku-ga_wa_nya kugawanya.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/ku_sa_wa_zi_sha kusawazisha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 3/alama za hesabu.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 4/ya na yo husisha - yanayohusisha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 4/hu ku elekeza - hukuelekeza.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 4/wa na vyo dhani - wanavyodhani.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 4/alama za hesabu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 27/DAY 4/ku vi elewa - kuvielewa.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 5/wimbo wa taifa.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/tu si pendane tusipendane.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/i ki pepea-ikipepea.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/rangi za bendera yetu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/i me ni lea-imenilea.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/twa ji vunia-twajivunia.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 2/wa me ni sinya-wamenisinya.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/nye_u_si nyeusi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/ki_ja_ni kijani.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/nye_ku_ndu nyekundu.mp3",
@@ -2270,7 +2015,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/nye_u_pe nyeupe.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/dhi_ha_ka dhihaka.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 1/ki_bi_chi kibichi.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/hu_s_ta_wi_shi hustawishi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/nye_ku_ndu nyekundu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/be_nde_ra bendera.mp3",
@@ -2278,7 +2022,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/bendera yetu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/wa_za_le_ndo wazalendo.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 3/a_f_ri_ka afrika.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 4/wa li o pigania-waliopigania.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 4/tu ki pigania-tukipigania.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 29/DAY 4/bendera yetu.mp3",
@@ -2289,17 +2032,12 @@
 "lessons/audio/Class 2 Kiswahili/Kuleta.MP3",
 "lessons/audio/Class 2 Kiswahili/kapendo 2.MP3",
 "lessons/audio/Class 2 Kiswahili/walitumia.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 5/mavazi.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 2/tu si achwe - tusiachwe.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 2/a ta ni peleka - atanipeleka.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 2/mchezo wa kuigiza_mama augua.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 2/tu ki kamilisha - tukikamilisha.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 2/tu na shukuru - tunashukuru.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/ma_ta_no matano.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/ta_fa_dha_li tafadhali.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/na_a_mi_ni naamini.mp3",
@@ -2307,7 +2045,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/ma_ri_a maria.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/ku_cho_ta kuchota.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 1/mchezo wa kuigiza_mama augua.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/ma_dha_ra madhara1.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/dhu_lu_ma dhuluma.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/ka_ti_ba katiba.mp3",
@@ -2315,7 +2052,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/mila na utamanduni.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/u_to_vu utovu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 3/u_ta_ma_du_ni utamaduni.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 4/zi na zo tokana - zinazotokana.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 4/i na pinga - inapinga.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 25/DAY 4/ku wa saidia - kuwasaidia.mp3",
@@ -2326,8 +2062,6 @@
 "lessons/audio/Class 2 Kiswahili/star.mp3",
 "lessons/audio/Class 2 Kiswahili/Mchwa story.MP3",
 "lessons/audio/Class 2 Kiswahili/hu wa shikilia huwashikilia.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/M,KU,BWA- MKUBWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/MA,RA,FI,KI- MARAFIKI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/N,OO- NOO.mp3",
@@ -2338,7 +2072,6 @@
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/W,O- WO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/T,O- TO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 3/M,SA,A,DA- MSAADA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/OKITOI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/A,TA,M,PA- ATAMPA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/M,UU- MUU.mp3",
@@ -2351,9 +2084,7 @@
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/M,AA- MAA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/M,JO,MBA- MJOMBA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 1/MU.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week1/Day 5/NYATI NA SUNGURA - STORY.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/H,II - HII.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/JAMAA YANGU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/H,EE- HEE.mp3",
@@ -2364,7 +2095,6 @@
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/NA,WA,HESHIMU- NAWAHESHIMU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/NI,TA,WA,ELEZEA- NITAWAELEZEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 4/H,I - HI.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week1/Day 2/K,T,L.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 2/L,O- LO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week1/Day 2/K,U- KU.mp3",
@@ -2374,8 +2104,6 @@
 "lessons/audio/Class 2 Kiswahili/Ukulima story 2.MP3",
 "lessons/audio/Class 2 Kiswahili/ku li a kulia.MP3",
 "lessons/audio/Class 2 Kiswahili/vo.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/DARASA LA AKINA HAMISI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/LI,A - LIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/DHI,A - DHIA.mp3",
@@ -2386,7 +2114,6 @@
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/KU,HI,FA,DHIA - KUHIFADHIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/MI,CHO,RO - MICHORO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day3/SA,JA,LA - SAJALA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/KU,O,NYESHA - KUONYESHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/HU,TUMIA - HUTUMIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/M,BWA - MBWA.mp3",
@@ -2397,7 +2124,6 @@
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/W,A - WA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/ZI,ME,BADIKWA - ZIMEBADIKWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day4/K,WA - KWA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/M,KO - MKO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/WA,KI,SOMA  - WAKISOMA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/A,NA,ITWA - ANAITWA.mp3",
@@ -2409,7 +2135,6 @@
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/A,NA,PENDA - ANAPENDA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/M,WA - MWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day2/T,WA - TWA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/DH,A.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/SH,O - SHO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/SH,E - SHE.mp3",
@@ -2420,11 +2145,8 @@
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/DH,I - DHI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/NA,DHI,FU - NADHIFU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week4/Day1/SA,HI,HI,SHA - SAHIHISHA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week4/Day5/ALA ZA MUZIKI.mp3",
 "lessons/audio/Class 2 Kiswahili/akawapeleka.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/KI,RO,BO,TO - KIROBOTO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/VI,NYWA,JI - VINYWAJI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/KO,MBA,MWI,KO - KOMBAMWIKO.mp3",
@@ -2432,36 +2154,27 @@
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/N,ZI - NZI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/KU,MBI,KU,MBI - KUMBIKUMBI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day3/SHEREHE YA WADUDU - STORY.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week9/Day4/WA,KA,SAMEHEANA - WAKASAMEHEANA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day4/WA,LI,HUDHURIA - WALIHUDHURIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day4/KU,WA,ALIKA - KUWAALIKA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day4/A,ME,CHAFUA - AMECHAFUA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week9/Day2/WA,NA,MJUA - WANAMJUA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day2/HU,FANANISHWA - HUFANANISHWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day2/I,TA,WA,LETEA - ITAWALETEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day2/WA,NA,O,FANYA - WANAOFANYA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/KI,CHU,GUU - KICHUGUU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/M,DU,DU - MDUDU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/M,CHWA - MCHWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/U,HA,RI,BI,FU - UHARIBIFU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/MCHWA - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week9/Day1/VI,GI,NGI - VIGINGI.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week9/Day5/WADUDU - STORY.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 5/mama afua nguo.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 2/mavazi mbali mbali.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 2/hu patikana - hupatikana.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 2/hu tumiwa - hutumiwa.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 2/hu valiwa - huvaliwa.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 2/hu tofautiana - hutofautiana.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/ma_ri_nda marinda.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/mavazi mbali mbali.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/ma_bu_i_bu-i mabuibui.mp3",
@@ -2469,7 +2182,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/wa_ta_wa watawa.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/wa_ka_to_i_ki wakatoliki.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 1/u_ta_ma_du_ni utamaduni.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/vye_u_si vyeusi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/shu_ka shuka.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/siku ya ibada.mp3",
@@ -2477,7 +2189,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/nye_u_pe nyeupe.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/ki_le_mba kilemba.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 3/ka_nzu kanzu.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 4/wa li agana - waliagana.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 4/a li mu uliza - alimuuliza.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 26/DAY 4/siku ya ibada.mp3",
@@ -2488,10 +2199,8 @@
 "lessons/audio/Class 2 Kiswahili/u koo ukoo.MP3",
 "lessons/audio/Class 2 Kiswahili/ya ka ongezeka yakaongezeka.MP3",
 "lessons/audio/Class 2 Kiswahili/mi me a mimea.MP3",
-
+"lessons/audio/Class 2 Kiswahili/Kiswahili class 2 MMLPs.pdf",
 "lessons/audio/Class 2 Kiswahili/ng'a.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/S,TI - STI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/M,KU,U - MKUU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/M,LI,NGO,TI - MLINGOTI.mp3",
@@ -2504,7 +2213,6 @@
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/SHULE YA MSINGI YA TUIGOIN.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/S,TA - STA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day3/K,TA - KTA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/KU,PENDEZA - KUPENDEZA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/M,KU - MKU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/MA,KUBWA - MAKUBWA.mp3",
@@ -2513,7 +2221,6 @@
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/M,SI - MSI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/L,I - LI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day4/YA,KU,LETA - YAKULETA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/L,U,A - LUA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/TU,LI,FURAHIA - TULIFURAHIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/A,KA,AMUA - AKAAMUA.mp3",
@@ -2523,7 +2230,6 @@
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/M,E,A - MEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/E,A - EA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day2/L,E,A - LEA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/KU,SU,BI,RI - KUSUBIRI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/MWA,LI,MU - MWALIMU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/NJ,WA - NJWA.mp3",
@@ -2534,7 +2240,6 @@
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/HA,DI,THI - HADITHI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/W,A - WA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week5/Day1/M,GO,NJWA - MGONJWA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week5/Day5/SHULE YANGU - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/ikabadilika.MP3",
 "lessons/audio/Class 2 Kiswahili/a.mp3",
@@ -2546,8 +2251,6 @@
 "lessons/audio/Class 2 Kiswahili/Sherehe ya wadudu story 2.MP3",
 "lessons/audio/Class 2 Kiswahili/m ku bwa mkubwa.MP3",
 "lessons/audio/Class 2 Kiswahili/z.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/NG'O,MBE - NG'OMBE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/Z,E - ZE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/HU,MU,U,A - HUMUUA.mp3",
@@ -2559,7 +2262,6 @@
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/BOMA LA WAKOLI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/M,Z,O - MZO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day3/M,ZO,GA - MZOGA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/YA,LI,YO,FANANA - YALIYOFANANA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/M,M,E - MME.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/WA,KA,M,SHAURI - WAKAMSHAURI.mp3",
@@ -2568,7 +2270,6 @@
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/M,M,O - MMO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/M,T,O - MTO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day4/WA,LI,SHANGAA - WALISHANGAA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/M,K,U - MKU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/A,KA,ENDELEA - AKAENDELEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/NI,TA,MUITA - NITAMUITA.mp3",
@@ -2576,7 +2277,6 @@
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/M,J,O - MJO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/M,D,O - MDO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day2/A,KA,NI,ELEZA - AKANIELEZA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/NYA,NYA - NYANYA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/U,KOO - UKOO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/ZA,NGU - ZANGU.mp3",
@@ -2588,11 +2288,8 @@
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/NG,I - NGI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/UKOO WETU - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week6/Day1/NY,A - NYA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week6/Day5/MALI SHAMBANI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/ny a nya.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/MA,JA,NI - MAJANI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/MI,ME,A - MIMEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/UKULIMA - STORY.mp3",
@@ -2600,18 +2297,15 @@
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/MA,HI,NDI - MAHINDI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/MA,TU,MI,ZI - MATUMIZI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day3/MI,HO,GO - MIHOGO.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week8/Day4/KI,BI,NAFSI - KIBINAFSI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day4/WA,KU,LIMA - WAKULIMA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day4/I,NA,YO,PANDWA - INAYOPANDWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day4/U,KU,LIMA - UKULIMA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week8/Day2/A,LI,PO,TAKA - ALIPOTAKA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day2/ZI,LI,ZO,M,PATIA - ZILIZOMPATIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day2/LI,LI,KUWA - LILIKUWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day2/KI,BI,NAFSI - KIBINAFSI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day2/A,LI,YA,UZA - ALIYAUZA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/TRE,K,TA - TREKTA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/M,KU,LI,MA - MKULIMA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/MKULIMA HODARI - STORY.mp3",
@@ -2619,10 +2313,7 @@
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/MA,SHA,MBA - MASHAMBA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/MBE,GU - MBEGU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week8/Day1/A,LI,NG'O,A - ALING'OA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week8/Day5/WEMA HAUOZI - STORY.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/ma va zi mavazi.mp3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/i shi ri ni ishirini.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/ma chu ngwa machungwa.MP3.mp3",
@@ -2630,7 +2321,6 @@
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/vi nywa ji vinywaji.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/story mwezi wa desemba.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 3/she re he sherehe.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/ju ni juni.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/de se mba desemba.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/a go s ti agosti.MP3.mp3",
@@ -2641,19 +2331,14 @@
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/ja nu a ri januari.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/ju la i julai.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 19/Day 1/story miezi ya mwaka.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 19/Day 5/story kibuyu cha ajabu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 19/Day 4/story mwezi wa desemba.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 19/Day 2/story miezi ya mwaka.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/u ha ri bi fu uharibifu.MP3",
 "lessons/audio/Class 2 Kiswahili/w1.mp3",
 "lessons/audio/Class 2 Kiswahili/wa li kubaliana walikubaliana.MP3",
 "lessons/audio/Class 2 Kiswahili/sha nga zi shangazi.MP3",
 "lessons/audio/Class 2 Kiswahili/u ku mku.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/so kwe sokwe.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/nge de re ngedere.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/tu mbi li tumbili.MP3.mp3",
@@ -2661,7 +2346,6 @@
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/mi a yo miayo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/ma ga nda maganda.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 3/story tumbili.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/m si tu ni msituni.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/story umuhimu wa ndege.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/ma ba wa mabawa.MP3.mp3",
@@ -2669,14 +2353,9 @@
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/nde ge ndege.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/ba ta m zi nga batamzinga.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 15/Day 1/ma nyo ya manyoya.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 15/Day 5/story ndege.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 15/Day 4/story tumbili.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 15/Day 2/story umuhimu wa ndege.MP3.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/wa si o o na-wasioona.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/ki ma  u mbi le-kimaumbile.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/ma gu  ru du mu-magurudumu.MP3.mp3",
@@ -2684,31 +2363,22 @@
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/story ulemavu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/wa si o si ki a-wasiosikia.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 3/wa le ma vu-walemavu.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/w_a wa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/p_wa pwa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/story haki za watoto.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/s_wa swa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/z_wa zwa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 12/Day 1/nd_wa ndwa.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 12/Day 5/nandutu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 12/Day 4/story ulemavu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 12/Day 2/story haki za watoto.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/ua.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 5/majumba ya nairobi.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 2/a ka wa ambia-akawaambia.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 2/ya li yo m fanya-yaliomfanya.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 2/wa li po fika-walipofika.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 2/wa li m fuata-walimfuata.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 2/mazingira.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/ma_zi_ngi_ra mazingira.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/so_ko_ni sokoni.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/shi_mo_ni shimoni.mp3",
@@ -2716,7 +2386,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/ku_fu_a_ta kufuata.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/mazingira.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 1/m_shi_ndo mshindo.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/dawa.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/da_k_ta_ri daktari.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/da_wa dawa.mp3",
@@ -2724,7 +2393,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/si-nda_no sindano.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/u_nge_dha_ni ungedhani.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 3/m_za_zi mzazi.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 4/dawa.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 4/zi na tu shinda-zinatushinda.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 30/DAY 4/u si sherehekee-isisherehekee.mp3",
@@ -2745,8 +2413,6 @@
 "lessons/audio/Class 2 Kiswahili/pet.mp3",
 "lessons/audio/Class 2 Kiswahili/kusafisha.MP3",
 "lessons/audio/Class 2 Kiswahili/ki bi nafsi kibinafsi.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/M,DO,MO - MDOMO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/SHI,NGO - SHINGO.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/KI,DE,VU - KIDEVU.mp3",
@@ -2754,18 +2420,15 @@
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/MA,SHA,VU - MASHAVU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/WANAKIJIJI WA MWILI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day3/KI,CHWA - KICHWA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week7/Day4/YA,KA,CHANGIA - YAKACHANGIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day4/WANAKIJIJI WA MWILI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day4/WA,LI,KUBALIANA - WALIKUBALIANA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day4/YA,KA,ONGEZEKA - YAKAONGEZEKA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week7/Day2/YA,ME,OSHWA - YAMEOSHWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day2/KU,HAKIKISHA - KUHAKIKISHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day2/ZI,ME,KA,TWA - ZIMEKATWA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day2/SEHEMU ZA MWILI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day2/HU,M,PELEKA - HUMPELEKA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/KU,SI,KI,LI,ZI,A - KUSIKILIZIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/KU,NYWE,A - KUNYWEA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/KU,LI,A - KULIA.mp3",
@@ -2773,7 +2436,6 @@
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/SEHEMU ZA MWILI - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/KU,PU,MU,LI,A - KUPUMULIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week7/Day1/MA,A,LU,M - MAALUM.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week7/Day5/BINTI YA MFALME - STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/u mu u a umuua.MP3",
 "lessons/audio/Class 2 Kiswahili/bi na mu binamu.MP3",
@@ -2782,15 +2444,12 @@
 "lessons/audio/Class 2 Kiswahili/r.mp3",
 "lessons/audio/Class 2 Kiswahili/o zo mzo.MP3",
 "lessons/audio/Class 2 Kiswahili/m ku li ma mkulima.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/ma nja no manjano.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/u ru ju a ni urujuani.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/i ndi go indigo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/ma to ne matone.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/mwa nga za mwangaza.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 3/story upinde wa mvua.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/nye u si nyeusi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/story rangi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/ja wa bu jawabu.MP3.mp3",
@@ -2798,15 +2457,10 @@
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/nye ku ndu nyekundu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/sa ma wa ti samawati.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 1/wa ri di waridi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 5/story kwanini mbingu ni samawati.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 4/story upinde wa mvua.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week 22/Day 2/story rangi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/nadhifu.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/m zu ngu ko mzunguko.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/story dereva rashidi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/ra shi di rashidi.MP3.mp3",
@@ -2814,7 +2468,6 @@
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/nye ku ndu nyekundu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/t ra fi ki trafiki.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 3/de re va derava.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/mw a nga li fu mwangalifu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/a ja li ajali.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/ho s pi ta li hospitali.MP3.mp3",
@@ -2822,27 +2475,19 @@
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/ki vu ki o kivukio.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/alama za barabarani.mp3",
 "lessons/audio/Class 2 Kiswahili/week 20/Day 1/de re va derava.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 20/Day 5/story ufalme wa kobe.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 20/Day 4/story dereva rashidi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 20/Day 2/alama za barabarani.mp3",
 "lessons/audio/Class 2 Kiswahili/v.mp3",
 "lessons/audio/Class 2 Kiswahili/wa ku lima wakulima.MP3",
 "lessons/audio/Class 2 Kiswahili/ge.MP3",
 "lessons/audio/Class 2 Kiswahili/ma hi ndi mahindi.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 5/gazeti la baba.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 2/wana funzi - wanafunzi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 2/wavu lana - wavulana.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 2/wa na i penda - wanaipenda.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 2/tarakimu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 2/wa wili - wawili.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/ti_si_ni tisini.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/tarakimu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/ha_m_si_ni hamsini.mp3",
@@ -2850,7 +2495,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/i_da_di idadi.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/the_la_thi_ni thelathini.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 1/i_shi_ri_ni ishirini.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/wimbo wa kuhesabu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/njo_o_ni njooni.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/ha_ba_ri habari.mp3",
@@ -2858,7 +2502,6 @@
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/wa_wi_li wawili.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/ra_fi_ki rafiki.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 3/m_mo_ja mmoja.mp3",
-
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 4/wimbo wa kuhesabu.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 4/tu wa rudishe-tuwarudishe.mp3",
 "lessons/audio/Class 2 Kiswahili/WEEK 28/DAY 4/tu ki m pata-tukimpata.mp3",
@@ -2868,8 +2511,6 @@
 "lessons/audio/Class 2 Kiswahili/ku si ki li zia.MP3",
 "lessons/audio/Class 2 Kiswahili/ma ja ni majani.MP3",
 "lessons/audio/Class 2 Kiswahili/p.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/m mo mo nyo ko mmomonyoko.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/ka ra ta si karatasi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/p la s ti ki plastiki.MP3.mp3",
@@ -2877,7 +2518,6 @@
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/mba o mbao.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/story linda mazingira yetu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 3/cha nga mo to changamoto.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/story nchi ya kenya.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/mbu ga mbuga.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/ma a ja bu maajabu.MP3.mp3",
@@ -2885,14 +2525,9 @@
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/ku pe nde z kupendeza.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/u li mwe ngu ulimwengu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 24/Day 1/wa na ri a dha wanariadha.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 24/Day 5/mwezi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 24/Day 4/story linda mazingira yetu.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 24/Day 2/story nchi ya kenya.MP3.mp3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/wa ka ti wakati.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/fo le ni foleni.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/a su bu hi asubuhi.MP3.mp3",
@@ -2900,7 +2535,6 @@
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/pa re di paredi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/ma ra fa ki marafiki.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 3/story mwema.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/ku fu ngwa kufungwa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/story saa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/ki sa sa kisasa.MP3.mp3",
@@ -2908,15 +2542,10 @@
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/ma u mbo maumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/shu ghu li shughuli.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 23/Day 1/o fi si ni ofisini.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 23/Day 5/story oburu, saa na kasuku.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 23/Day 4/story mwema.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 23/Day 2/story saa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Wadudu story (2).MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/KAPENDO -STORY.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/A,LI,M,SIKIA - ALIMSIKIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/BLA,N,KE,TI - BLANKETI.mp3",
@@ -2925,7 +2554,6 @@
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/Z,I - ZI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/A,LI,M,SI,KI,A - ALIMSIKIA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day3/A,LI,A,NZA - ALIANZA.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/S,E - SE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/A,LI,IMBA - ALIIMBA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/M,KI - MKI.mp3",
@@ -2938,7 +2566,6 @@
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/A,LI,NAWA - ALINAWA (2).mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/A,LI,AMUA - ALIAMUA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day4/M,SE - MSE.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/KU,M,KARIBISHA- KUMKARIBISHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/S,TI - STI.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/E,RE,  M,RE - needs editing.mp3",
@@ -2955,7 +2582,6 @@
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/A,KA,MWONA - AKAMWONA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/A,LI,WASHA - ALIWASHA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day2/I,T,I - needs editing.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/P,E -PE.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/M,PU,NGA - MPUNGA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/M,CHE - MCHE.mp3",
@@ -2975,7 +2601,6 @@
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/STI,MA - STIMA.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/P,U- PU.mp3",
 "lessons/audio/Class 2 Kiswahili/Week3/Day1/CH,I - CHI.mp3",
-
 "lessons/audio/Class 2 Kiswahili/Week3/Day5/MAINA, KIZEE NA NG'OMBE.mp3",
 "lessons/audio/Class 2 Kiswahili/o jo mjo.MP3",
 "lessons/audio/Class 2 Kiswahili/hu m peleka humpeleka.MP3",
@@ -2987,8 +2612,6 @@
 "lessons/audio/Class 2 Kiswahili/o.mp3",
 "lessons/audio/Class 2 Kiswahili/Binti ya mfalme story.MP3",
 "lessons/audio/Class 2 Kiswahili/alimsikia.MP3",
-
-
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/m sa la ni msalani.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/ha ru fu harufu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/u sa fi usafi.MP3.mp3",
@@ -2996,7 +2619,6 @@
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/ku du mi sha kudumisha.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/vy oo vyoo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 3/vi o shwe vioshwe.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/ho ma homa.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/u cha fu uchafu.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/ki nga kinga.MP3.mp3",
@@ -3004,11 +2626,8 @@
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/ma tu mbo matumbo.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/ha ta ri hatari.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/week 17/Day 1/story Nzi.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 17/Day 5/story Tembo asaidiwa.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 17/Day 4/story mama safi shuleni.MP3.mp3",
-
 "lessons/audio/Class 2 Kiswahili/week 17/Day 2/story Nzi.MP3.mp3",
 "lessons/audio/Class 2 Kiswahili/Mkulima hodari story 2.MP3",
 "lessons/audio/Class 2 Kiswahili/Sank.mp3",
@@ -3020,7 +2639,6 @@
 "lessons/audio/Class 2 Kiswahili/nya.MP3",
 "lessons/audio/Class 2 Kiswahili/gha la ni ghalani.MP3",
 "lessons/audio/Class 2 Kiswahili/ku o ne a kuonea.MP3",
-
 "lessons/audio/Class 2 English/ST.mp3",
 "lessons/audio/Class 2 English/DR_w8d2.mp3",
 "lessons/audio/Class 2 English/bark.mp3",
@@ -3031,34 +2649,30 @@
 "lessons/audio/Class 2 English/MEAT, M, EA, T.mp3",
 "lessons/audio/Class 2 English/ii_w8d4.mp3",
 "lessons/audio/Class 2 English/Turn_w10d2.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 27/DAY 5/mama mary's very best dishes.mp3",
-
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/b  ei  b  ii  -  baby.mp3",
+"lessons/audio/Class 2 English/WEEK 27/DAY 2/w   i  n  dy  -  winndy.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/f  u  n  ii  -  funny.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/p  ar  t  ii  -  party.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/n  a  n  ii  -  nanny.mp3",
+"lessons/audio/Class 2 English/WEEK 27/DAY 2/gl  oo  m  y  -  gloomy  .mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/can baby come.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/h  a  p  ii  -  happy.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/t  a  s  t ii  -  tasty.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/m  a  n i  -  many.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 2/pr  e t ii  -  pretty.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 27/DAY 1/pr  e  ty  -  pretty.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 1/f  a n ii  -  funny.mp3",
+"lessons/audio/Class 2 English/WEEK 27/DAY 1/w   i  n  dy  -  winndy.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 1/can baby come.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 1/b  a  b  y  -  baby.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 1/h  a  p  y  -  happy.mp3",
-
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/j.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/ai s  -  ice.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/ra  i  s  -  rice.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/r  a  ce  -  race.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/baby liz's birthday.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 3/c  a  ge  -  cage.mp3",
-
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/f  ai s -  face.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/k  ei  j  -  cage .mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/ra  i  s  -  rice.mp3",
@@ -3068,11 +2682,9 @@
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/p  ei  j  -  page.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/sp  ai s  -  spice.mp3",
 "lessons/audio/Class 2 English/WEEK 27/DAY 4/ei j  -  age.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 29/DAY 5/our school.mp3",
-
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/t  e ll  -  tell.mp3",
+"lessons/audio/Class 2 English/WEEK 29/DAY 2/f a st_fast.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/m  i  s  t - mist  .mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/s  m  ell  -  smell.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/m  a  ch  -  match.mp3",
@@ -3085,8 +2697,6 @@
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/r  ai  t -  right.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/n  ight  -  night.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 2/br  ai  t  -  bright.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/st  a  y  -  stay.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/pl  a  n  t  ed  -  planted.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/pl a  nt  -  plant.mp3",
@@ -3099,7 +2709,6 @@
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/plant  -  pl  a  n  t.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/dry  -  dr  y.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 1/stay  -  st  ay.mp3",
-
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/i  ch  es  -  itches.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/w  i  ch  es  -  witches.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/m  a  sh  es  -  mashes.mp3",
@@ -3109,7 +2718,6 @@
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/d  i  sh  es -  dishes.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/mash  -  m  a  sh.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 3/a game of football.mp3",
-
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/f  a  ce  -  face.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/f  ai s -  face.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/k  ei  j  -  cage .mp3",
@@ -3124,14 +2732,12 @@
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/seen - s  ee  n.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/party  -  p  ar  ty.mp3",
 "lessons/audio/Class 2 English/WEEK 29/DAY 4/a game of football.mp3",
+"lessons/audio/Class 2 English/WEEK 29/DAY 4/p  a  ge  -  page.mp3",
 "lessons/audio/Class 2 English/nk.mp3",
 "lessons/audio/Class 2 English/ST, A, ND.mp3",
 "lessons/audio/Class 2 English/B, UR, N.mp3",
 "lessons/audio/Class 2 English/Fast.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 25/DAY 5/greetings.mp3",
-
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/kw  i  z  -- quiz.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/kw  i  t  e  -  quite.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/q  and u  sound kw.mp3",
@@ -3139,8 +2745,6 @@
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/kw i  e  t  -  quiet.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/kw ee  n  -  queen.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 2/kazungu and the queen.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kw  i  t  -  quit .mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kw.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kw i  z  -- quiz.mp3",
@@ -3148,7 +2752,6 @@
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kw i  t  e  -  quite.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kazungu and the queen.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 1/kw  i  e  t  -  quiet.mp3",
-
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/m  a  ch  es  -  matches.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/m  a  ch  -  match.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/st  i  ch  es  -  stitches.mp3",
@@ -3159,7 +2762,6 @@
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/the watches.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/d  i   ch  -  ditch.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 3/w  a  ch  es  -  watches.mp3",
-
 "lessons/audio/Class 2 English/WEEK 25/DAY 4/t  ou  ch  -  touch.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 4/p  u  sh  -  push.mp3",
 "lessons/audio/Class 2 English/WEEK 25/DAY 4/i  t  ch  -  itch.mp3",
@@ -3184,34 +2786,28 @@
 "lessons/audio/Class 2 English/W10d3and 4 story.mp3",
 "lessons/audio/Class 2 English/aa.mp3",
 "lessons/audio/Class 2 English/G, E, T, S.mp3",
-
+"lessons/audio/Class 2 English/English 2 TE.pdf",
 "lessons/audio/Class 2 English/w10d2 Story.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 26/DAY 5/the rat and the race.mp3",
-
+"lessons/audio/Class 2 English/WEEK 26/DAY 2/a x_axe.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/s  i  ks -  six.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/f  o  ks  -  fox.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/f  i  ks  -  fix.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/tell me.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/m  i  ks -  mix .mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 2/b  o  ks  -  box .mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/s  i  ks -  six.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/f  i  ks  -  fix.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/tell me.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/b  o  ks  -  box .mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/o  ks  -  ox.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 1/ks.mp3",
-
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/d  ir  t  -  dirt.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/animals.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/h  er  -  her.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/ir.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/b  ur  n  -  burn.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 3/sk  ir  t  -  skirt.mp3",
-
 "lessons/audio/Class 2 English/WEEK 26/DAY 4/t  ur  n  -  turn.mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 4/b  ir  d  -  bird .mp3",
 "lessons/audio/Class 2 English/WEEK 26/DAY 4/f  ir  m  -  firm.mp3",
@@ -3227,18 +2823,13 @@
 "lessons/audio/Class 2 English/FL.mp3",
 "lessons/audio/Class 2 English/DR.mp3",
 "lessons/audio/Class 2 English/BEAN, B, EA, N.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 30/DAY 5/how do you travel.mp3",
-
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/crossing the road.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/gl  aa d  -  glad.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/b  oy  - boy.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/fl  a  t  -  flat.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/g  ir  l  -  girl.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 2/fl  oo r  -  floor.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/sp  e  n d  - spend.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/r  aa  t  -  rat.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/crossing the road.mp3",
@@ -3250,11 +2841,10 @@
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/tr  aa  k  s  -  trucks.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/k  aa  -  car.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/t  aa  p  s  -  taps.mp3",
+"lessons/audio/Class 2 English/WEEK 30/DAY 1/pl ants_plants.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 1/sp  e n d  s -  spends.mp3",
-
 "lessons/audio/Class 2 English/WEEK 30/DAY 3/p  uu l  -  pool.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 3/the race.mp3",
-
 "lessons/audio/Class 2 English/WEEK 30/DAY 4/p  u  sh  -  push.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 4/r  ai  s-  race.mp3",
 "lessons/audio/Class 2 English/WEEK 30/DAY 4/t  aa ch  -  touch.mp3",
@@ -3269,27 +2859,20 @@
 "lessons/audio/Class 2 English/F, A, LL.mp3",
 "lessons/audio/Class 2 English/drink.mp3",
 "lessons/audio/Class 2 English/Turn.mp3",
-
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 3/B, ALL.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 3/STORY ROSE, AND, THE, BIG, BICYCLE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 3/F, AR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 3/B, AR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 3/SC, AR.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/L, O, B.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/L.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/R, O, B.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/R, A, KE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/STORY THE CAT, AND, THE BUS.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 1/R.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 5/STORY, ROSE HAS  A SCAR.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 4/A.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 4/STORY ROSE AND THE BIG BIKE.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/R, I, PE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/L (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/R, I, DE.mp3",
@@ -3297,8 +2880,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/L, A, KE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/L, I, KE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 3/Day 2/L,E, D.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/br ei n brain.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/story the tree planting trip.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/tree.mp3",
@@ -3306,16 +2887,13 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/br au n brown.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/br uu m broom.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 3/tr ay tray.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/house.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/r ao nd round.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/story the mouse.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/f ao nd found.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/s ao nd sound.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 1/mouse.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 5/story how to make your own broom.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/br ei n brain.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/grain.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/trade.mp3",
@@ -3327,7 +2905,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/tr y try.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/br uu m broom.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 4/trap.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/loud l au d.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/house.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/r ao nd round.mp3",
@@ -3338,8 +2915,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/f ao nd found.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/s ao nd sound.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 16/Day 2/mouse.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/wind.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/went.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/sand.mp3",
@@ -3347,7 +2922,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/stand.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/spend.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 3/story anne and the weather.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/tow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/say.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/ow slow.mp3",
@@ -3356,9 +2930,7 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/row.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/story mr weather man.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 1/flow.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 5/story the weather.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/think.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/land.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/end.mp3",
@@ -3370,15 +2942,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/s e nt sent.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/spend.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 4/story anne and the weather.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/tow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/sl ow slow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/low.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/blow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/grow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 13/Day 2/story mr weather man.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/n e ck neck.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/sc_a_r scar.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/t oy toy.mp3",
@@ -3386,9 +2955,7 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/story what people do.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/sk_ir_t skirt.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 3/sk_i_ll skill.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 5/story how do you travel.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/sk i n skin.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/sh_or_t.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/sc_ou_t scout.mp3",
@@ -3396,29 +2963,24 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/story what people do.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/b oy boy.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/Day 4/sk u l skul.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/shore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/sh_i_p.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/story-ways to travel.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/short.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/sh_o_p.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 1/port.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/story-ways to travel.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/sp_or_ts.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/st_or_m.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/short.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/uniform.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 11/day 2/port.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/stay.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/story to pray and to play.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/pool.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/may.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/zoo.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 3/pr ai pray.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/walked.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/story long ago.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/m a sh ed mashed.mp3",
@@ -3427,9 +2989,7 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/washed.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/wanted.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 1/m a sh mash.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 5/story visiting jim.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/stay.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/time.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/say.mp3",
@@ -3440,7 +3000,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/hang.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/m ai may.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 4/tr ay tray.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/story long ago.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/p i k pick.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/missed.mp3",
@@ -3453,28 +3012,22 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/p i k ed picked.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/helped.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 21/Day 2/picked.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 3/C, A, NE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 3/C, A, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 3/B, I, T, E.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 3/B, I, T- BIT.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 3/C, A, N.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/CH, I, P- CHIP.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/STORY NAN AND SAM.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/SH, IP.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/SH.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/Y.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 1/CH.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 5/PAM, AND, MOTHER.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 4/STORY MANGOES.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 4/C, U, T, E.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 4/N, O, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 4/N, GH.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/Z, I, P.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/Z.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/R, I, P.mp3",
@@ -3482,8 +3035,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/R, I, NG.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/STORY NAN AND SAM.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 2/Day 2/V.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/R, O, CK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/S, I, NG, S.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/L, U, CK.mp3",
@@ -3493,7 +3044,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/STORY, THE LONG NECK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/K.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 3/W, A, SP.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/STORY, A SORE EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/D, EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/M,A, SK.mp3",
@@ -3502,20 +3052,15 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/H, EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/W, A, SP.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 1/N, EAR.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 5/STORY, PUCK AND THE SOCK.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 4/S, A, CK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 4/STORY, THE LONG NECK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 4/L, O, CK.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 2/STORY, A SORE EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 2/D, EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 2/Y, EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 2/E, A, AND R, EAR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 7/Day 2/H, EAR.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/FL, OOR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/GL, O, BE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/STORY, CLEANING A COW SHED.mp3",
@@ -3524,15 +3069,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/FL, I, ES.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/GL.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 3/FL, A, G.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 1/L, U, CK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 1/F, AR, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 1/P, AR, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 1/STORY, FEEDING A COW.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 1/Y, AR, D.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 5/STORY, FROM SEED TO FOOD.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/P, I, NK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/FL, A,SK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/FL, A, G (2).mp3",
@@ -3543,7 +3085,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/FL.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/GL, O, BE (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 4/GL, OVE, S.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/C, O, CK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/C, AR, D.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/P, AR, T (2).mp3",
@@ -3552,13 +3093,10 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/D, AR, K.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/STORY, FEEDING A COW.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 9/Day 2/H, EAR.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 3/S, EA, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 3/STORY, HUNGRY MAINA FALLS.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 3/B, EA, D.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 3/P, EA, S.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/ST.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/S, E, ND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/S, K, SK.mp3",
@@ -3570,9 +3108,7 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/SK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/W, A, SP.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 1/S, P, SP.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 5/STORY, MARY ANS THE WASP.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/R, EA, D.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/DR, EA, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/SP, EA, K.mp3",
@@ -3583,7 +3119,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/CH, EA, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/T, EA, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 4/H, EA, T.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/P, I, NK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/T, A, SK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/S, T, ST.mp3",
@@ -3594,22 +3129,17 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/N, K, NK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/E.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 6/Day 2/S, P, SP.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/story morning song.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/s o ng song.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/sang.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/tree.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/thing.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 3/br i ng bring.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 1/story the new cow.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 1/dr ai v a driver.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 1/r ii da reader.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 1/l o ng long.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 5/story what is a bird.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/wing.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/story morning song.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/strong.mp3",
@@ -3621,7 +3151,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/song.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/br i ng bring.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 4/l o ng long.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/seller.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/reader r ii d er.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/story the new cow.mp3",
@@ -3631,15 +3160,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/buyer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/leader.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 18/Day 2/t ii ch a teacher.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/far.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/star.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/story a little brother dresses goats.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/short.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/scar.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 3/port.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/story the hat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/glad.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/k aa t cartmp3.mp3",
@@ -3648,15 +3174,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/floor.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/flat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 1/aa m arm.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 5/story what do you wear.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 4/s oil soil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 4/story a little brother dresses goats.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 4/sp oi l spoil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 4/sn ore snore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 4/m ore more.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/story the hat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/toy.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/f aa m farm.mp3",
@@ -3664,30 +3187,24 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/fur.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/boy.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 14/Day 2/her.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/B, OY.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/T, OY.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/OI.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/EN, J, OY.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/STORY, CLOTHES FOR GIRLS AND BOYS.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 3/J, O, Y.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/T, ER, M (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/STORY, DRESSING MY BROTHER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/SH, IR, T (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/SK, IR, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/B, IR, D.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 1/I AND R, IR.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 5/STORY, UNIFORM.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 4/SK, IR, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 4/J, OY.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 4/T, O, Y.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 4/B, OY (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 4/STORY, CLOTHES FOR GIRLS AND BOYS.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/I AND R, IR (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/STORY, DRESSING MY BROTHER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/F, IR, M.mp3",
@@ -3695,8 +3212,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/T, ER, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/SH, IR, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 10/Day 2/SH, OR, T, S (2).mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/class.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/story rain is life.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/pass.mp3",
@@ -3707,16 +3222,13 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/eat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/dress.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 3/less rush.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/playing.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/clouds.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/talking.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/wind.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/story the wind.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 1/glowing.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 5/story playing in the rain.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/class.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/glass.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/m i s miss.mp3",
@@ -3729,7 +3241,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/mass.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/gloss.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 4/less.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/going.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/pack packing.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/coming.mp3",
@@ -3739,24 +3250,19 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/feed fedding.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/shining.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 19/Day 2/jump jumping.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/z uu zoo.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/m uu n moon.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/story the farmer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/farmer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/choose.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 3/tool.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/t oa d toad.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/k oa t coat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/fl oa t float.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/likesmp3.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/swim.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 1/story the floating goat.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 5/story tiny seed.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/m uu n moon.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/story the farmer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/fool.mp3",
@@ -3767,7 +3273,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/too.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/zoo.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 4/soon.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/t oa d toad.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/fl oa t float.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/s oil soil.mp3",
@@ -3778,28 +3283,22 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/k oa st coast.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/boat.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 15/Day 2/story the floating goat.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 3/story what do you do.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 3/w or e wore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 3/sn ore snore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 3/st or store.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 1/s oil soil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 1/p oi nt point.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 1/story cleaning the house.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 1/wet.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 1/sweep.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 5/story how to cook ugali.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/t ur n turn.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/story what do you do.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/w or e wore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/sh or e shore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/sn ore snore.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 4/s ai d side.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/c oi n coin.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/b oi l boil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/p oi nt point.mp3",
@@ -3809,24 +3308,19 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/s oi l soil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/oi l oil.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 12/Day 2/l as t last.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/wait.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/f ai l fail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/nail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/pail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/story a rainy day.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 3/tail.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/white.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/kr y cry.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/story when i wake up.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/sky.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/dry.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 1/why.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 5/story parts of my body.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/wait.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/fail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/rain.mp3",
@@ -3837,7 +3331,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/t ai l tail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/wail.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 4/hand.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/fl y fly.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/story when i wake up.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/by.mp3",
@@ -3848,8 +3341,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/fry.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/why.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 22/Day 2/my.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/gl oa b globe.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/story gloomy goat and happy hen.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/slap.mp3",
@@ -3857,15 +3348,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/block.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/clock.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 3/flat.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 1/gr iu grew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 1/st iu stew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 1/dew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 1/chew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 1/story dew makes a mess.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 5/story how to cook stew.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/story gloomy goat and happy hen.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/bl a k black.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/slay.mp3",
@@ -3874,112 +3362,88 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/kl a p clap.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/flip.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 4/slip.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/gr iu grew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/st iu stew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/new.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/chew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/story dew makes a mess.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 17/Day 2/f iu few.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 3/GR, A, SS.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 3/GR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 3/STORY, SAM AND THE PIG.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 3/GR, EE, N.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 1/SW, I, M, S.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 1/SH, I, P, S.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 1/STORY BAD, SMELL, AT, THE, LAKE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 1/SW, I, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 1/S.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 5/STORY PAT, AND, THE, BIG, DOG.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/DR, I, P.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/GR, A, SS.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/DR, A, G.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/GR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/DR.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 4/GR, EE, N.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 2/SW, I, M, S.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 2/SH, I, P.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 2/SH, I, P, S.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 2/STORY BAD, SMELL, AT, THE, LAKE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 4/Day 2/SW, I, M.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 3/few new pew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 3/fl iu flew.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 3/sort port.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 3/bl iu blewmp3.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 3/story a chat with a big tree.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 1/t oa d toad.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 1/story at the river.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 1/l oa d load.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 1/goat coat.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 5/story cleaning up.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/sing singer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/t ii ch er teacher.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/t ii ch teach.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/story a chat with a big tree.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/ring ringer.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 4/read reader.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 2/story at the river.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 2/pr au d proud.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 2/pound.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 2/ground.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 20/Day 2/mouse.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/ST.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/STORY, ESTHER AND THE SPIDER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/SP, I , N.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/SP, I, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/ST (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 3/SP.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 1/S, E, ND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 1/STORY, BABY SARAH, AND, THE SAND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 1/N, D, ND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 1/N, K, NK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 1/S, E, NT.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 5/STORY, BABY SARAH TAKES A BATHE (2).mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 4/ST, OR, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 4/STORY, ESTHER AND THE SPIDER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 4/SP, EA, K.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 4/ST, I, LL.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 4/SP, I, T (2).mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 2/N, T, NT.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 2/P, I, NK.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 2/F, I, ND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 2/STORY, BABY SARAH, AND, THE SAND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 5/Day 2/WH, O, WHO.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/story counting to sell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/shell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/spell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/swell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/smell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 3/t el tell.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 1/k a ch catch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 1/story matching socks.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 1/ditch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 1/match1.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 1/witch.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 5/story the number 12.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/story counting to sell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/sell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/yells.mp3",
@@ -3988,7 +3452,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/b el bell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/y el yell.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 4/w el well.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/itch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/sketch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/much.mp3",
@@ -4001,23 +3464,18 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/switch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/witch.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 24/Day 2/rich.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/b e st best.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/mist.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/task.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/story dear sun.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/wasp.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 3/list.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 1/l ai t light.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 1/right.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 1/fight.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 1/story playing at night.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 1/fright.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 5/story after class activity timetable.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/fast.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/d e sk desk.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/last.mp3",
@@ -4028,7 +3486,6 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/wasp.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/list.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 4/ask.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/light.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/bright.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/might.mp3",
@@ -4038,15 +3495,12 @@
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/fight.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/story playing at night.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/week 23/Day 2/flight.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/H, O, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/P, O, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/O.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/N, O, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/N.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 3/STORY, PAT AND THE BAD BIRD.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/A, T, E.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/M, E, T.mp3",
@@ -4056,20 +3510,17 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/I.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/T, A, M.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 1/M, A, T.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 5/D (2).mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 5/J.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 5/W.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 5/D.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 5/K.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/G.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/B.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/B, U, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/G, U, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/R.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 4/STORY, PAT AND THE BAD BIRD.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/L.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/F.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/S, A , T.mp3",
@@ -4077,28 +3528,22 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/S, E, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/STORY, AT THE ZOO.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 1/Day 2/S.mp3",
-
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 3/SPIT, SP, I, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 3/ST, A, ND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 3/H, A, ND, HAND.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 3/STORY, LINDA AND THE SPIDER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 3/N AND D, ND.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/R, I, P.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/R, O, BE.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/STORY, A SHIRT FOR SCHOOL.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/R.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/L, I, P.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 1/l.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 5/STORY, WASPS.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 4/S, EA, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 4/MEAT, M, EA, T.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 4/STORY, LINDA AND THE SPIDER.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 4/FLASK, FL, A, SK.mp3",
-
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 2/GR, AI, N.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 2/GR, EY.mp3",
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 2/STORY, A SHIRT FOR SCHOOL (2).mp3",
@@ -4106,10 +3551,7 @@
 "lessons/audio/Class 2 English/English Class 2 audios/Week 8/Day 2/PL, AY.mp3",
 "lessons/audio/Class 2 English/note.mp3",
 "lessons/audio/Class 2 English/plays.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 28/DAY 5/climbing trees.mp3",
-
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/catch  -  c  a  ch.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/w  i  sh  es  -  wishes.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/p  u  sh  es  -  pushes .mp3",
@@ -4122,8 +3564,6 @@
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/d  i  sh  es -  dishes.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/brush   -  br  a  sh.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 2/w  a  ch  es  -  watches.mp3",
-
-
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/t  ea  ch  es  -   teaches.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/w  i  sh  es  -  wishes.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/dish  -  d  i  sh.mp3",
@@ -4135,7 +3575,6 @@
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/d  i  sh  es -  dishes.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/teach  -  t ea  ch.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 1/ash  -   a sh  .mp3",
-
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/gr  ii n  -  green.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/tr  ii-  tree.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/trees.mp3",
@@ -4143,7 +3582,6 @@
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/m  ii t  -  meet.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/b  ii n  -  been.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 3/ii.mp3",
-
 "lessons/audio/Class 2 English/WEEK 28/DAY 4/f  ii t  -  feet.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 4/f  ii l  -  feel.mp3",
 "lessons/audio/Class 2 English/WEEK 28/DAY 4/gr  ii n  -  green.mp3",
@@ -4159,16 +3597,12 @@
 "lessons/audio/Class 2 English/w9d5 story.mp3",
 "lessons/audio/Class 2 English/speak.mp3",
 "lessons/audio/Class 2 English/C, AR.mp3",
-
 "lessons/audio/Class 1 Eng audio/Mr Kamau.mp3",
 "lessons/audio/Class 1 Eng audio/W8D2 story.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 3/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 3/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 3/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 3/Day 1 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/r ai s rice.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/ai s ice.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/h iu j huge.mp3",
@@ -4176,12 +3610,10 @@
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/p ei j page.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/story the fat ape.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 3/ei j age.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 16/Day 1/l ei k lake.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 1/story mike has a kite.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 1/k ai t kite.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 1/m ai k mike.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/h ou m home.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/l ei k lake.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/k ei t kate.mp3",
@@ -4191,32 +3623,26 @@
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/f ei s face.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/k ai t kite.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 5/p ei j page.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 16/Day 4/r ai s rice.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 4/h iu j huge.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 4/f ei s face.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 4/story the little white cat.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 4/p ei j page.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 16/Day 2/h ou m home.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 2/l ei k lake.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 2/k ei t kate.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 2/story the birthday cake.mp3",
 "lessons/audio/Class 1 Eng audio/week 16/Day 2/m ai k mike.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/Week 13/Day 3/b i g big.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 3/c a t cat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 3/story the big fat cat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 3/p i g pig.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 3/g o t got.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 13/Day 1/story ben has fun.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 1/f u n fun.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 1/b a t bat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 1/r u n run.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 1/b e n ben.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/b a t bat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/b i g big.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/r u n run.mp3",
@@ -4224,20 +3650,16 @@
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/sit s i t.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/c u p cup.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 5/g o t got.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 13/Day 4/story the big fat pig.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 4/b i g big.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 4/c a t cat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 4/c u p cup.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 4/g o t got.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 13/Day 2/f u n fun.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 2/b a t bat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 2/r u n run.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 2/p e t pet.mp3",
 "lessons/audio/Class 1 Eng audio/Week 13/Day 2/story kamau saves a bird.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/s ii t seat.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/b ii t beat.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/f oo d food.mp3",
@@ -4247,21 +3669,18 @@
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/s ei say.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/story mat is in a bad mood.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 3/w ei way.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/ch i k chick.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/l i k lick.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/p a k pack.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/story tam and her bike.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/s i k sick.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 1/b a k back.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/v o t vote.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/story the zebra eats yam.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/y ear year.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/v a s vase.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/z i p zip.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 5/z oo m zoom.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/w ii d weed.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/story the sheep with red wool.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/w ii k week.mp3",
@@ -4270,7 +3689,6 @@
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/w ai t white.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/w e n when.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 4/w a t what.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 21/Day 2/l ei t late.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 2/story the bike hits a rock.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 2/k ei t kate.mp3",
@@ -4285,7 +3703,6 @@
 "lessons/audio/Class 1 Eng audio/week 21/Day 2/b ai t bite.mp3",
 "lessons/audio/Class 1 Eng audio/week 21/Day 2/l e k lake.mp3",
 "lessons/audio/Class 1 Eng audio/W10 D2story.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 7/Day 1 story Goining to the market.mp3",
 "lessons/audio/Class 1 Eng audio/Week 7/mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 7/man.mp3",
@@ -4298,7 +3715,6 @@
 "lessons/audio/Class 1 Eng audio/Week 7/met.mp3",
 "lessons/audio/Class 1 Eng audio/Week 7/Day 4 Making stew.mp3",
 "lessons/audio/Class 1 Eng audio/Week 7/am.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 9/Day 4 story the class race.mp3",
 "lessons/audio/Class 1 Eng audio/Week 9/mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 9/tam.mp3",
@@ -4314,13 +3730,10 @@
 "lessons/audio/Class 1 Eng audio/Week 9/Day 5 story Mat sit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 9/am.mp3",
 "lessons/audio/Class 1 Eng audio/Week 9/at.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 6/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 6/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 6/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 6/Day 1 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/n o t not.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/n ou t note.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/p ou l pole.mp3",
@@ -4337,13 +3750,11 @@
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/c u b cub.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/r ou s rose.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 3/n ou s nose.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 15/Day 1/m ei t mate.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 1/story a mate is a friend.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 1/b i t bit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 1/m a t mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 1/b ai t bite.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/bit b i t.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/cane c ei n.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/story at the lake.mp3",
@@ -4351,17 +3762,13 @@
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/bite b ei t.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/can c a n.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 5/tube t iu b.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 15/Day 4/story a trip to mombasa.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/k a n can.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/kit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/k ei n cane.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/mwende rides a bike.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/rate.mp3",
 "lessons/audio/Class 1 Eng audio/Week 15/Day 2/rat.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/sc  ar  -  scar.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/spot  -  sp  o  t.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/stone  -  st  o  ne .mp3",
@@ -4370,15 +3777,12 @@
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/the big black dog.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/sting  -  st  i  ng.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 5/spit  -  sp  i  t.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/wanjiku want earrings.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/sp  i  t  -  spit.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/sp  o  t  -  spot.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/st  i  k  -  stick.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/st  o  ne  -  stone.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 2/sam  and the dirty short.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/sp  i  t  -  spit.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/sp  o  t  -  spot.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/st  i  k  -  stick.mp3",
@@ -4386,7 +3790,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/s  and  t  sound  st.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/sam  and the dirty short.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 1/s  and p  sound sp.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/sc  ar  -  scar.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/s  and k sound sk.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/s  and c  sound  sk.mp3",
@@ -4394,15 +3797,12 @@
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/sc  oo  -  score.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/sk  i  p  -  skip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 3/tam and jane skip rope.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/two friends.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/sc  ar  -  scar.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/sk  i  n  -  skin.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/sc  oo  -  score.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/sk  i  p  -  skip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 27/DAY 4/tam and jane skip rope.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/b  oo  k  -  book.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/o  and  o  sound  u.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/h  i  s  -  hiss.mp3",
@@ -4416,31 +3816,24 @@
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/z  oo  -  zoo.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/a  rat  in the class.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 5/l  oo  k  -  look.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/f  i  ll  -  fill.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/b  i  ll  -  bill.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/s  e  ll  -  sell.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/f  e  ll  -  fell.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/Tam  and  Pat  eat  together.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 2/h  i  ll  -  hill.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 1/a  and  r  sound  aa.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 1/o,  r  and e  sound  o  .mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 1/Tam  and  Pat  eat  together.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 3/n  and  g  sound  ng.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 3/The train trip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 3/b and r  sound  br.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 4/b  ow  -  bow.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 4/mike  has  fun.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 4/h  e  -  he.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 4/r  ow  -  row.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 29/DAY 4/m  e  -  me.mp3",
 "lessons/audio/Class 1 Eng audio/One to ten like.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/path  -  p  a  th.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/with  -  w  i  th .mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/sow  -  s  ow.mp3",
@@ -4450,7 +3843,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/o  and  w  sound  ow.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/row -  r  ow.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 5/low  -  l  o w.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/n  and  g  sound  ng.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/th  i  n  -  thin.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/s  and  h  sound  sh .mp3",
@@ -4461,8 +3853,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/sam  needs a bath.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/what do i see.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 2/th  i  ng  -  thing.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/n  and  g  sound  ng.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/th  i  n  -  thin.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/s  and  h  sound  sh .mp3",
@@ -4472,7 +3862,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/t  and  h  sound  th.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/sam  needs a bath.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 1/th  i  ng  -  thing.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/l  ow  -  low.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/o  and  o  sound  u.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/ben  sows  seed.mp3",
@@ -4480,7 +3869,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/r  ow  -  row.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/s  ow  -  sow.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 3/t  and  h  sound  th.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/l  ow  -  low.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/ben  sows  seed.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/th  i  n  -  thin.mp3",
@@ -4491,8 +3879,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/getting home before the rain.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/t  and  h  sound   th.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 25/DAY 4/o  and  w  sound  ow.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/p o t pot.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/hen.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/net.mp3",
@@ -4500,13 +3886,11 @@
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/story the hen in the pot.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/nap.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 3/h o t hot.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 12/Day 1/p e t pet.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 1/f a t fat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 1/s i t sit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 1/p a t pat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 1/story sit sam sit pat.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/n o t not.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/l e t let.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/f i t fit.mp3",
@@ -4520,59 +3904,48 @@
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/p e n pen.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/m e t met.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 5/h o t hot.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 12/Day 4/n o t not.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 4/p o t pot.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 4/p e n pen.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 4/sam sleeps in class.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 4/h o t hot.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/l e t let.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/f i t fit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/story the funny pet hen.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/p e t pet.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/f a t fat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 12/Day 2/s i t sit.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 18/Day 3/story mike and jane chat.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 3/w e n when.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 3/w a t what.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 18/Day 1/b ii bee.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 1/story jack and the bee.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 1/h ii he.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 1/w ii we.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 1/sh ii she.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/we w ii.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/when w e n.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/me m ii.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/she sh ii.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/what w a t.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 5/stoy jane and jack lick jam.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 18/Day 4/w a i why.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 4/story sam plants seeds.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 4/w ea where.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 4/w e n when.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 4/w a t what.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 18/Day 2/b ii bee.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 2/h ii he.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 2/story grandfather and the snake.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 2/w ii we.mp3",
 "lessons/audio/Class 1 Eng audio/week 18/Day 2/sh ii she.mp3",
 "lessons/audio/Class 1 Eng audio/W7d4 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/bless  -  bl  e  ss.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/sam is dirty.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/glad  -  gl  a  d.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/glow  -  gl  ow.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/flat  -  fl a t.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 5/plan  -  pl  a  n.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/Tam plays  with clay.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/do  not talk to strangers.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/sl  a  p  -  slap.mp3",
@@ -4581,8 +3954,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/c  and  l  sound  kl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/kl  a  y  -  clay.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 2/o  and  w  sound  ow.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/Tam plays  with clay.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/sl  a  p  -  slap.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/kl  i  n  -  clean.mp3",
@@ -4590,7 +3961,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/c  and  l  sound  kl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/kl  a  y  -  clay.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 1/o  and  w  sound  ow.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/f  and  l  sound  fl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/p  and  l  sound  pl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/b  and  l  sound  bl.mp3",
@@ -4600,27 +3970,22 @@
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/gl  a  d --  glad.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/kate and the smoke.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 3/bl  a  k  -  black.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/f  and  l  sound  fl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/p  and  l  sound  pl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/b  and  l  sound  bl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/g  and  l  sound  gl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/kate and the smoke.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 26/DAY 4/Doctor patricia visits class.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/Week 14/Day 3/l i k lick.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 3/j a m jam.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 3/j a k jack.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 3/s i k sick.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 3/story the sick dog.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 14/Day 1/story ben and the dog.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 1/r e d red.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 1/w e t wet.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 1/f e d fed.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 1/d o g dog.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/duck d u k.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/jam j a m.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/l o k lock.mp3",
@@ -4631,20 +3996,17 @@
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/wet w e t.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/s o k sock.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 5/story pat cannot lick the jam.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 14/Day 4/l i k lick.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 4/j a m jam.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 4/j a k jack.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 4/story otieno and his bike.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 4/s i k sick.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/story a rainy day.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/r e d red.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/w i n win.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/w e t wet.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/f e d fed.mp3",
 "lessons/audio/Class 1 Eng audio/Week 14/Day 2/d o g dog.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 10/mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 10/Met.mp3",
 "lessons/audio/Class 1 Eng audio/Week 10/Day 5 story is mat here.mp3",
@@ -4663,20 +4025,16 @@
 "lessons/audio/Class 1 Eng audio/Week 10/Set.mp3",
 "lessons/audio/Class 1 Eng audio/Week 10/at.mp3",
 "lessons/audio/Class 1 Eng audio/Week 10/l.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 19/Day 3/n ei l nail.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 3/p ei n pain.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 3/s ei say.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 3/story ben and the nail.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 3/w ei way.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 19/Day 1/m ii t meat.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 1/w ii d weed.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 1/ii t eat.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 1/story pat's sheep.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 1/sh ii p sheep.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/w ii d weed.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/nail n ei l.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/story pat and the sheep.mp3",
@@ -4684,13 +4042,11 @@
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/say s ei.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/sheep sh ii p.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 5/eat ii t.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 19/Day 4/n ei l nail.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 4/p ei n pain.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 4/story sanaipei is hungry.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 4/s ei say.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 4/w ei way.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/m ii t meat.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/w ii d weed.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/seed.mp3",
@@ -4698,13 +4054,10 @@
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/m  ii t meat.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/story the big frog.mp3",
 "lessons/audio/Class 1 Eng audio/week 19/Day 2/sh ii p sheep.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 2/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 2/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 2/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 2/Day 1 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/w  and  h  sound  w.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/wh  a  t  -  what.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/t  and  h  sound th .mp3",
@@ -4712,7 +4065,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/wh  e  n  -  when.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/b  a  th  -  bath.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 5/th  i  ng  -  thing.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/sc  ar  -  scar.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/sk  i  ll  -  skill.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/s  and  c  sound  sk.mp3",
@@ -4721,38 +4073,30 @@
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/s  and  k  sound  sk.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/sk  i  n  -  skin.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 2/s  and  t  sound  st.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 1/b  and  l  sound  bl.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 1/very  nice  food.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 1/c  and  l  sound  kl.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 3/c  and  r  sound  cr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 3/a  nice  book.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 3/t  and  r  sound  tr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 3/b and r  sound  br.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 3/g  and  r  sound  gr.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/sp  i  n  -  spin.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/sp  ea  k  -  speak.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/sp  o  t  -  spot.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/sp  a  d  e  -  spade.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/A sick  cat.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 30/DAY 4/s  and p  sound sp.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 22/Day 3/story at the lake shore.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 3/m or more.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 3/t or tore.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 3/w or wore.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 3/sh or shore.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 22/Day 1/k aa car.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 1/story the toy car on the tarmac.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 1/b aa bar.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 1/f aa far.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 1/t aa tar.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/shore sh or.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/far f aa.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/tore t ore.mp3",
@@ -4760,36 +4104,29 @@
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/tar t aa.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/more m or.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 5/story the ferry.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 22/Day 4/m or more.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 4/story the boat taxi.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 4/t or tore.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 4/w or wore.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 4/sh or shore.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 22/Day 2/k aa car.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 2/b aa bar.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 2/f aa far.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 2/t aa tar.mp3",
 "lessons/audio/Class 1 Eng audio/week 22/Day 2/story new tar on the road.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 4/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 4/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 4/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/week 4/Day 1 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/Week 11/Day 3/l e t let.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 3/story let sam sit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 3/s a t sat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 3/s e t set.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 3/l i t lit.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 11/Day 1/story mat and tam sit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 1/s a t sat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 1/s i t sit.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 1/s e t set.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/l e t let.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/it i t.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/story tam sit here.mp3",
@@ -4798,7 +4135,6 @@
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/s e t set.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/am a m.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 5/m e t met.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/story counting chicks.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/s a t sat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/m a t mat.mp3",
@@ -4806,28 +4142,23 @@
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/a t at.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/m e t met.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 4/l i t lit.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/l e t let.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/s a t sat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/story where am i.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/m a t mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/am a m.mp3",
 "lessons/audio/Class 1 Eng audio/Week 11/Day 2/l i t lit.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/d o t dot.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/s i t sit.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/c u t cut.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/story a fun game.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/p ii t pit.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 3/h o t hot.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 20/Day 1/z uu zoo.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 1/story to the zoo.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 1/t uu too.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 1/p uu l pool.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 1/r uu m room.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/b ii n bean.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/m ei t mate.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/story fish and chips.mp3",
@@ -4835,7 +4166,6 @@
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/k ai t kite.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/m a t mat.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 5/sh ii p sheep.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/n o t not.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/n ou t note.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/p ei n pain.mp3",
@@ -4843,19 +4173,15 @@
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/s ei y say.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/c u t cut.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 4/story pat and mat play.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 20/Day 2/story the ride home.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 2/pat.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 2/met.mp3",
 "lessons/audio/Class 1 Eng audio/week 20/Day 2/zoo.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 5/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 5/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 5/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 5/Day 1 story.mp3",
 "lessons/audio/Class 1 Eng audio/Tom and Mary Play.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/trip  -  tr  i  p.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/t  and  r  sound  tr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/sam is  dirty.mp3",
@@ -4868,7 +4194,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/drop,  -  dr  o  p.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/drip  -  dr  i  p.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 5/g  and  r  sound  gr.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/tr  i  p  -  trip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/t  and  r  sound  tr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/tr  ai  n  -  train.mp3",
@@ -4877,8 +4202,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/gr  ee  t  -  greet.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/g  and  r  sound  gr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 2/the grain on the train.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/tr  i  p  -  trip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/t  and  r  sound  tr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/tr  ai  n  -  train.mp3",
@@ -4886,7 +4209,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/gr  ee  t  -  greet.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/g  and  r  sound  gr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 1/the grain on the train.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/dr  o  p  -  drop.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/dr  a  w  -  draw.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/fr  o  g  -  frog.mp3",
@@ -4894,7 +4216,6 @@
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/f  and  r  sound  fr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/d  and  r  sound  dr.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 3/a frog in the bag.mp3",
-
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/dr  o  p  -  drop.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/tr  i  p  -  trip.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/dr  a  w  -  draw.mp3",
@@ -4905,28 +4226,22 @@
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/gr  ee  t  -  greet.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/in the tuktuk.mp3",
 "lessons/audio/Class 1 Eng audio/WEEK 28/DAY 4/a frog in the bag.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 24/Day 3/story joy and sam play together.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 3/t oi toy.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 3/b oi boy.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 3/j oi joy.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/story the funy hen song.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/s i ng sing.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/w i ng wing.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/s o ng song.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/r i ng ring.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 1/l o ng long.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/story joy has a holiday.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/s i ng sing.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/t oi toy.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/b oi boy.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/r i ng ring.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 4/j oi joy.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 24/Day 2/s i ng sing.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 2/w i ng wing.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 2/s o ng song.mp3",
@@ -4934,20 +4249,16 @@
 "lessons/audio/Class 1 Eng audio/week 24/Day 2/r i ng ring.mp3",
 "lessons/audio/Class 1 Eng audio/week 24/Day 2/l o ng long.mp3",
 "lessons/audio/Class 1 Eng audio/Big duck.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 23/Day 3/t o s toss.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 3/m e s mess.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 3/l e s less.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 3/story toss the ball.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 3/m i ss miss.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 23/Day 1/b e l bell.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 1/w e l well.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 1/story pat and the shell.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 1/sh e ll shell.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 1/t e l tell.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/boss b o ss.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/bell b e l.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/shell sh ell.mp3",
@@ -4957,7 +4268,6 @@
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/toss t o ss.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/tell t e l.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 5/loss l o ss.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/t o s toss.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/m or more.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/m e s mess.mp3",
@@ -4966,31 +4276,25 @@
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/k aa car.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/f aa far.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 4/m i ss miss.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 23/Day 2/story rose's school uniform.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 2/b e l bell.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 2/w e l well.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 2/sh e ll shell.mp3",
 "lessons/audio/Class 1 Eng audio/week 23/Day 2/t e l tell.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 1/Day 3 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 1/Day 2 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 1/Day 4 story.mp3",
 "lessons/audio/Class 1 Eng audio/Week 1/Day 1 story.mp3",
-
-
 "lessons/audio/Class 1 Eng audio/week 17/Day 3/yes.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 3/vet.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 3/yam.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 3/van.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 3/story the sick cat.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 17/Day 1/chop.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 1/fish.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 1/shop.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 1/story rice and fish.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 1/chat.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/yam y a m.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/chop ch o p.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/h i p hip.mp3",
@@ -5005,19 +4309,16 @@
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/vet v e t.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/let.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 5/shop sh o p.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 17/Day 4/yes.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 4/vet.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 4/yam.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 4/van.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 4/story our good food.mp3",
-
 "lessons/audio/Class 1 Eng audio/week 17/Day 2/story the monkeys steal food.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 2/chop.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 2/fish.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 2/shop.mp3",
 "lessons/audio/Class 1 Eng audio/week 17/Day 2/chat.mp3",
-
 "lessons/audio/Class 1 Eng audio/Week 8/Day 3 Mat met Tam.mp3",
 "lessons/audio/Class 1 Eng audio/Week 8/mat.mp3",
 "lessons/audio/Class 1 Eng audio/Week 8/tam.mp3",
@@ -5030,7 +4331,6 @@
 "lessons/audio/Class 1 Eng audio/Week 8/met.mp3",
 "lessons/audio/Class 1 Eng audio/Week 8/am.mp3",
 "lessons/audio/Class 1 Eng audio/Week 8/at.mp3",
-
 "lessons/audio/Class 1 Eng audio/Songs/Wednesday morning when i wake up.mp3",
 "lessons/audio/Class 1 Eng audio/Songs/Tuesday morning when i wake up.mp3",
 "lessons/audio/Class 1 Eng audio/Songs/Six like a snake.mp3",
@@ -5041,6 +4341,5 @@
 "lessons/audio/Class 1 Eng audio/Songs/Mr. kamau had a farm.mp3",
 "lessons/audio/Class 1 Eng audio/Songs/One to ten like a.... day 5.mp3",
 "lessons/audio/Class 1 Eng audio/Songs/Head shouders,knees and toes.mp3",
-"lessons/audio/Class 1 Eng audio/Songs/Thursday morning when i wake up.mp3"]
-
-}
+"lessons/audio/Class 1 Eng audio/Songs/Thursday morning when i wake up.mp3"
+]}
